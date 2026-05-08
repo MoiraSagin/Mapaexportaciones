@@ -9,7 +9,7 @@ with open("colombia.geojson", "r", encoding="utf-8") as f:
     geo_colombia = json.load(f)
 
 st.set_page_config(
-    page_title="Mapa de Exportaciones",
+    page_title="Mapa de Exportaciones Colombia (2025)",
     layout="wide"
 )
 
