@@ -123,7 +123,22 @@ def obtener_iso3(nombre):
     "REINO UNIDO": "GBR",
     "REPUBLICA DOMINICANA": "DOM",
     "RUSIA": "RUS",
-    "VENEZUELA": "VEN"
+    "VENEZUELA": "VEN",
+    "COREA DEL SUR": "KOR",
+    "COREA DEL NORTE": "PRK",
+    "TAIWAN": "TWN",
+    "VIETNAM": "VNM",
+    "IRAN": "IRN",
+    "EGIPTO": "EGY",
+    "DINAMARCA": "DNK",
+    "ESLOVAQUIA": "SVK",
+    "ESLOVENIA": "SVN",
+    "CROACIA": "HRV",
+    "BOSNIA Y HERZEGOVINA": "BIH",
+    "CAMBOYA": "KHM",
+    "BELICE": "BLZ",
+    "CHIPRE": "CYP",
+    "COSTA DE MARFIL": "CIV"
 }
     nombre = str(nombre).strip().upper()
 
