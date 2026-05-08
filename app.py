@@ -369,7 +369,7 @@ if tipo_mapa == "Mapa mundial":
     )
 
     col2.metric(
-        "Número de países",
+        "Número de países con importaciones",
         total_paises
     )
 
