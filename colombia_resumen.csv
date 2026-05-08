@@ -1,34 +1,34 @@
 Departamento,Departamento_join,fob_total,kg_total,Nivel tecnologico,fob_tecnologia,Pais,fob_pais,CIIU,fob_ciiu
 Amazonas,AMAZONAS,2083.2,144,Manufacturas de alta tecnología,2083.2,Brasil,2083.2,Fabricación de equipos de comunicación,2083.2
-Antioquia,ANTIOQUIA,10192986590.14,2905599828.02,Otras transacciones,4232987223.22,Estados Unidos,2993123383.74,Industrias básicas de metales preciosos,4131921268.71
+Antioquia,ANTIOQUIA,10175683163.66,2904335854.68,Otras transacciones,4232987223.22,Estados Unidos,2991105536.5499997,Industrias básicas de metales preciosos,4131921268.71
 Arauca,ARAUCA,1356226.6300000001,715793.27,Manufacturas de tecnología media,914865.15,Venezuela,780245.66,Fabricación de plaguicidas y otros productos químicos de uso agropecuario,475587.07
-Atlántico,ATLANTICO,1908506126.57,715647959.68,Manufacturas de baja tecnología,876636474.2899998,Estados Unidos,939644087.3399998,Fabricación de productos metálicos para uso estructural,614003519.9299998
-Bogotá,BOGOTA D.C.,5626605602.05,1665234744.55,Bienes primarios,2671502230.3900003,Estados Unidos,2196917081.8500004,Trilla de café,1383484744.46
-Bolívar,BOLIVAR,2274051759.5,1671636743.98,Manufacturas de tecnología media,1386616665.86,Brasil,708238561.1,Fabricación de plásticos en formas primarias,751088843.74
+Atlántico,ATLANTICO,1906501345.1999998,715539427.62,Manufacturas de baja tecnología,876636474.2899998,Estados Unidos,939429941.3099998,Fabricación de productos metálicos para uso estructural,614003519.9299998
+Bogotá,BOGOTA D.C.,5567955293.04,1661446877.95,Bienes primarios,2671502230.3900003,Estados Unidos,2182750746.1000004,Trilla de café,1383484744.46
+Bolívar,BOLIVAR,2260187556.04,1671264610.95,Manufacturas de tecnología media,1386616665.86,Brasil,703270631.14,Fabricación de plásticos en formas primarias,751088843.74
 Boyacá,BOYACA,408314037.49,1442883157.47,Manufacturas basadas en recursos naturales,368821517.94,Brasil,234516413.01,Fabricación de productos de hornos de coque,310217739.84
-Caldas,CALDAS,1357993517.49,236453404.11,Bienes primarios,1044973413.21,Estados Unidos,332418301.06,Trilla de café,763984128.95
+Caldas,CALDAS,1357679073.41,236403359.16,Bienes primarios,1044973413.21,Estados Unidos,332151182.93,Trilla de café,763984128.95
 Caquetá,CAQUETA,240000.19,132728.62,Manufacturas basadas en recursos naturales,106692.03,Estados Unidos,94701.6,"Aserrado, acepillado e impregnación de la madera",94701.6
 Casanare,CASANARE,604705216.27,1358325163.23,Bienes primarios,604356674.93,Estados Unidos,300380877.12,Extracción de petróleo crudo,604183641.08
-Cauca,CAUCA,201226876.81,174474623.36,Manufacturas basadas en recursos naturales,93033900.65,Estados Unidos,44496291.07,Elaboración y refinación de azúcar,70088125.77
-Cesar,CESAR,2095100836.8700001,24805303097.36,Bienes primarios,2090320016.1,Países Bajos,280628568.4,Extracción de hulla (carbón de piedra),2044932632.28
+Cauca,CAUCA,201220257.06,174474292.01,Manufacturas basadas en recursos naturales,93033900.65,Estados Unidos,44496291.07,Elaboración y refinación de azúcar,70088125.77
+Cesar,CESAR,2095062095.8700001,24805301724.23,Bienes primarios,2090320016.1,Países Bajos,280628568.4,Extracción de hulla (carbón de piedra),2044932632.28
 Chocó,CHOCO,18987047.95,17275769.94,Otras transacciones,10343327.629999999,Emiratos Árabes Unidos,7366897.449999999,Industrias básicas de metales preciosos,13125588.37
-Cundinamarca,CUNDINAMARCA,2720294330.4300003,2246703454.17,Bienes primarios,1453692153.18,Estados Unidos,1038104572.1100001,Cultivo de flor de corte,947530626.2800001
-Córdoba,CORDOBA,618962194.58,802425537.16,Manufacturas de tecnología media,464531822.46,China,326498293.49,Industrias básicas de hierro y de acero,463962662.4
+Cundinamarca,CUNDINAMARCA,2692965261.7200003,2235780220.38,Bienes primarios,1453692153.18,Estados Unidos,1031090984.1200001,Cultivo de flor de corte,947530626.2800001
+Córdoba,CORDOBA,618959734.71,802425521,Manufacturas de tecnología media,464531822.46,China,326498293.49,Industrias básicas de hierro y de acero,463962662.4
 Guainía,GUAINIA,110439.29000000001,16343.44,Bienes primarios,68582.15,Estados Unidos,34530,Cultivo de flor de corte,68582.15
-Guajira,LA GUAJIRA,1311025639.11,16507643868.76,Bienes primarios,1286673336.7,Corea del Sur,227587091.32999998,Extracción de hulla (carbón de piedra),1283482664.53
+Guajira,LA GUAJIRA,1310984792.74,16507634827.34,Bienes primarios,1286673336.7,Corea del Sur,227587091.32999998,Extracción de hulla (carbón de piedra),1283482664.53
 Guaviare,GUAVIARE,104.5,13.92,Manufacturas de tecnología media,104.5,Ecuador,104.5,"Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas",104.5
-Huila,HUILA,1535076419.91,197610574.38,Bienes primarios,1533494996.94,Estados Unidos,570460187.27,Trilla de café,1434994307.76
-Magdalena,MAGDALENA,653179947.77,1025199626.03,Bienes primarios,641103902.22,Estados Unidos,247489234.71,Cultivo de plátano y banano,541281756.59
-Meta,META,506543492.57,1125689837.53,Bienes primarios,501788677.76,Estados Unidos,283044881.83,Extracción de petróleo crudo,484284160.3
-Nariño,NARINO,135579612.72,20713347.51,Bienes primarios,129990207.51,Estados Unidos,45785386.02,Trilla de café,126196375.63
-Norte de Santander,NORTE DE SANTANDER,801543162.27,4779554615.87,Manufacturas basadas en recursos naturales,381877478.64,Venezuela,126809037.74,Fabricación de productos de hornos de coque,327721842.76
+Huila,HUILA,1535060540.91,197610557.26,Bienes primarios,1533494996.94,Estados Unidos,570460187.27,Trilla de café,1434994307.76
+Magdalena,MAGDALENA,653172627.52,1025199368.13,Bienes primarios,641103902.22,Estados Unidos,247483334.79,Cultivo de plátano y banano,541281756.59
+Meta,META,506449834.57,1125654800.82,Bienes primarios,501788677.76,Estados Unidos,282951223.83,Extracción de petróleo crudo,484284160.3
+Nariño,NARINO,135492108.82,20157550.34,Bienes primarios,129990207.51,Estados Unidos,45785386.02,Trilla de café,126196375.63
+Norte de Santander,NORTE DE SANTANDER,801279490.06,4779485713.87,Manufacturas basadas en recursos naturales,381877478.64,Venezuela,126587669.92,Fabricación de productos de hornos de coque,327721842.76
 Putumayo,PUTUMAYO,144118808.13,348062219.32,Bienes primarios,143799796.13,Perú,79660295.25999999,Extracción de petróleo crudo,143545059.57
-Quindío,QUINDIO,285125126.48,49496336.67,Bienes primarios,270410982.04,Estados Unidos,114413180.1,Trilla de café,242873598.84
-Risaralda,RISARALDA,757732638.71,197483706.22,Bienes primarios,264339903.19,Estados Unidos,288938258.9,"Fabricación de motores, generadores y transformadores eléctricos",191992244
+Quindío,QUINDIO,285121179.48,49496158.66,Bienes primarios,270410982.04,Estados Unidos,114409250.5,Trilla de café,242873598.84
+Risaralda,RISARALDA,750062593.84,196679353,Bienes primarios,264339903.19,Estados Unidos,288434824.3,"Fabricación de motores, generadores y transformadores eléctricos",191992244
 San Andrés,SAN ANDRES Y PROVIDENCIA,41131.71,32466,Manufacturas basadas en recursos naturales,34461.71,Venezuela,34461.71,Fabricación de sustancias y productos químicos básicos,34461.71
-Santander,SANTANDER,674531451.11,496745192.51,Bienes primarios,372387732.87,Estados Unidos,240259724.85,Fabricación de productos de la refinación del petróleo,196689783.17
+Santander,SANTANDER,673559259.57,496676641.55,Bienes primarios,372387732.87,Estados Unidos,240036674.7,Fabricación de productos de la refinación del petróleo,196689783.17
 Sucre,SUCRE,380445385.90999997,920796648.83,Bienes primarios,377841005.06,Estados Unidos,202397381.17,Extracción de petróleo crudo,372532212.15
-Tolima,TOLIMA,131702263.97,12816149.24,Bienes primarios,127052308.07,Estados Unidos,67777567.89,Otros derivados del café,71313257.03
-Valle del Cauca,VALLE DEL CAUCA,2562293849.04,1292464022.19,Manufacturas basadas en recursos naturales,852581614.18,Estados Unidos,707329653.6,Trilla de café,313153403.86
+Tolima,TOLIMA,131662048.15,12815371.01,Bienes primarios,127052308.07,Estados Unidos,67777567.89,Otros derivados del café,71313257.03
+Valle del Cauca,VALLE DEL CAUCA,2517302255.03,1268431504.19,Manufacturas basadas en recursos naturales,852581614.18,Estados Unidos,694368696.59,Trilla de café,313153403.86
 Vaupés,VAUPES,11865.670000000002,650.9000000000001,Manufacturas basadas en recursos naturales,11865.670000000002,Perú,11865.670000000002,"Procesamiento y conservación de frutas, legumbres, hortalizas y tubérculos",11865.670000000002
 Vichada,VICHADA,1810.96,280.58,Manufacturas basadas en recursos naturales,1480,Estados Unidos,1810.96,Cría de otros animales n.c.p.,1480
