@@ -438,7 +438,12 @@ if tipo_mapa == "Mapa mundial":
 
     fig.update_layout(height=700)
     fig.update_coloraxes(
-    colorbar_title=f"{variable_label}<br>(escala log)"
+    colorbar_title=f"{variable_label}<br>(escala log)",
+
+    colorbar=dict(
+        tickvals=[10, 15, 20],
+        ticktext=["1 mil", "1 millón", "100 millones"]
+    )
 )
     fig.update_coloraxes(
     colorbar_title="Intensidad exportadora"
@@ -570,9 +575,13 @@ else:
 
     fig.update_layout(height=700)
     fig.update_coloraxes(
-    colorbar_title=f"{variable_label}<br>(escala log)"
-)
+    colorbar_title=f"{variable_colombia_label}<br>(escala log)",
 
+    colorbar=dict(
+        tickvals=[10, 15, 20],
+        ticktext=["1 mil", "1 millón", "100 millones"]
+    )
+)
     if "Pais" in colombia.columns and "CIIU" in colombia.columns and "fob_ciiu" in colombia.columns:
 
         fig.update_traces(
