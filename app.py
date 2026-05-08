@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Mapa de Exportaciones")
+st.title("Mapa de Exportaciones Colombia (2025)")
 st.sidebar.header("Filtros")
 
 # =========================
