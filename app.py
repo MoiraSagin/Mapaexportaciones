@@ -381,7 +381,7 @@ if tipo_mapa == "Mapa mundial":
 else:
 
     total_fob = colombia["fob_total"].sum()
-    total_deptos = colombia["Departamento"].nunique()
+    total_deptos = colombia[colombia["fob_total"] > 0]["Departamento"].nunique()
     promedio = total_fob / total_deptos
 
     col1.metric(
@@ -390,7 +390,7 @@ else:
     )
 
     col2.metric(
-        "Número de departamentos",
+        "Departamentos con exportaciones",
         total_deptos
     )
 
