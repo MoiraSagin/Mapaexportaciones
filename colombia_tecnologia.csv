@@ -1,0 +1,1447 @@
+Mes,Departamento,Departamento_join,Nivel tecnologico,fob_total,kg_total
+1,Antioquia,ANTIOQUIA,Bienes primarios,266214721.85999998,204444095.81
+1,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,35918401.82,16560114.75
+1,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,7073716.7,829660.4
+1,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,42203008.53,7618825.7
+1,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,33989012.21,13762121.959999999
+1,Antioquia,ANTIOQUIA,Otras transacciones,289599499.33,14407.05
+1,Arauca,ARAUCA,Manufacturas de baja tecnología,58922,20878.5
+1,Arauca,ARAUCA,Manufacturas de tecnología media,1000,56
+1,Atlántico,ATLANTICO,Bienes primarios,4068850.8000000003,2895248.36
+1,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,47356592.64,17538797.01
+1,Atlántico,ATLANTICO,Manufacturas de alta tecnología,7684096.51,1919312.77
+1,Atlántico,ATLANTICO,Manufacturas de baja tecnología,72995153.34999992,12028776.22
+1,Atlántico,ATLANTICO,Manufacturas de tecnología media,21501366.16,6780617.9399999995
+1,Atlántico,ATLANTICO,Otras transacciones,495.83,517.63
+1,Bogotá,BOGOTA D.C.,Bienes primarios,192870191.30000022,25333268.85
+1,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,87379922.15,84068313.62
+1,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,24576776.28,557165.48
+1,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,33581799.86,4476967.65
+1,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,54626042.05,7533562.84
+1,Bogotá,BOGOTA D.C.,Otras transacciones,4459798.89,689849.67
+1,Bolívar,BOLIVAR,Bienes primarios,90711113.22,159424818.52
+1,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,15225767.64,13925788.22
+1,Bolívar,BOLIVAR,Manufacturas de alta tecnología,862181.62,13176.55
+1,Bolívar,BOLIVAR,Manufacturas de baja tecnología,15436113.01,3840918.9
+1,Bolívar,BOLIVAR,Manufacturas de tecnología media,104773063.73,68163902.25
+1,Bolívar,BOLIVAR,Otras transacciones,279534.64,1263.15
+1,Boyacá,BOYACA,Bienes primarios,1339201.63,451347.92
+1,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,32183849.790000003,97479421.57
+1,Boyacá,BOYACA,Manufacturas de alta tecnología,1118,98.63
+1,Boyacá,BOYACA,Manufacturas de baja tecnología,25895.7,1706.55
+1,Boyacá,BOYACA,Manufacturas de tecnología media,3036.2599999999998,171.85
+1,Caldas,CALDAS,Bienes primarios,96830902.42999999,13499468.42
+1,Caldas,CALDAS,Manufacturas basadas en recursos naturales,10604172.67,5196697.01
+1,Caldas,CALDAS,Manufacturas de alta tecnología,598232.6900000001,34868.45
+1,Caldas,CALDAS,Manufacturas de baja tecnología,2509349.44,617977.2000000001
+1,Caldas,CALDAS,Manufacturas de tecnología media,9396629.07,2022980.55
+1,Caldas,CALDAS,Otras transacciones,76.99000000000001,3.41
+1,Caquetá,CAQUETA,Bienes primarios,38304,20160
+1,Caquetá,CAQUETA,Manufacturas de baja tecnología,3267.98,53.8
+1,Casanare,CASANARE,Bienes primarios,23698808,47965218
+1,Casanare,CASANARE,Manufacturas de tecnología media,167414,1900
+1,Cauca,CAUCA,Bienes primarios,3659049.68,556752
+1,Cauca,CAUCA,Manufacturas basadas en recursos naturales,11279073.6,16799140.02
+1,Cauca,CAUCA,Manufacturas de baja tecnología,412738.62,141922.13
+1,Cauca,CAUCA,Manufacturas de tecnología media,2028231.21,1259114.22
+1,Cauca,CAUCA,Otras transacciones,29.61,10
+1,Cesar,CESAR,Bienes primarios,167636052.77,1743657305
+1,Cesar,CESAR,Manufacturas basadas en recursos naturales,321464.78,556356
+1,Cesar,CESAR,Manufacturas de tecnología media,53515.92,31967.1
+1,Chocó,CHOCO,Bienes primarios,13824,17140
+1,Chocó,CHOCO,Manufacturas basadas en recursos naturales,926560.8200000001,2199138
+1,Chocó,CHOCO,Otras transacciones,969776.42,16.21
+1,Cundinamarca,CUNDINAMARCA,Bienes primarios,94873940.47000009,30817799.37
+1,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,26590036.75,90404291.84
+1,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,9561676.6,516516.32
+1,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,15094557.71,2629990.26
+1,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,37295447.08,6517915.6
+1,Cundinamarca,CUNDINAMARCA,Otras transacciones,777587.56,212638.22
+1,Córdoba,CORDOBA,Bienes primarios,15539623.33,51996851.8
+1,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,440346.48,1778997.6
+1,Córdoba,CORDOBA,Manufacturas de tecnología media,34633068.37,9920294
+1,Guainía,GUAINIA,Bienes primarios,68582.15,1794
+1,Guainía,GUAINIA,Manufacturas basadas en recursos naturales,10404,5140.8
+1,Guainía,GUAINIA,Manufacturas de baja tecnología,2040,598.2
+1,Guajira,LA GUAJIRA,Bienes primarios,5949327.69,61883169.5
+1,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,113906.79000000001,59902
+1,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,29353.8,11591
+1,Guajira,LA GUAJIRA,Manufacturas de tecnología media,565743.14,388874.65
+1,Huila,HUILA,Bienes primarios,114157616.81,17051323.79
+1,Huila,HUILA,Manufacturas basadas en recursos naturales,141019.6,70826
+1,Huila,HUILA,Manufacturas de baja tecnología,224.5,4.35
+1,Huila,HUILA,Manufacturas de tecnología media,150000,2250
+1,Huila,HUILA,Otras transacciones,479.6,43
+1,Magdalena,MAGDALENA,Bienes primarios,42269833.71,68618698.17
+1,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,473742.42,235668.58
+1,Magdalena,MAGDALENA,Manufacturas de baja tecnología,32144.72,1690.34
+1,Magdalena,MAGDALENA,Manufacturas de tecnología media,550940.7,644583.8
+1,Meta,META,Bienes primarios,37033176.09,72813292
+1,Meta,META,Manufacturas basadas en recursos naturales,4958.04,21014.12
+1,Meta,META,Manufacturas de baja tecnología,75535.12000000001,353.47
+1,Meta,META,Manufacturas de tecnología media,84476.9,233750
+1,Nariño,NARINO,Bienes primarios,5761413.470000001,779921
+1,Nariño,NARINO,Manufacturas basadas en recursos naturales,46611.37,17796.14
+1,Nariño,NARINO,Manufacturas de alta tecnología,139179.48,11767
+1,Nariño,NARINO,Manufacturas de baja tecnología,18041.57,14469
+1,Nariño,NARINO,Manufacturas de tecnología media,168969.78,28858.1
+1,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,25563300.15,226046873.93
+1,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,61601286.04,273921574.34
+1,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,224416.68,50502.82
+1,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,3313799.1,2449266.98
+1,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,2706109.05,2391365.64
+1,Putumayo,PUTUMAYO,Bienes primarios,25440217.7,60774586.32
+1,Quindío,QUINDIO,Bienes primarios,17070119.37,3825492.2199999997
+1,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,512954.7,67742.4
+1,Quindío,QUINDIO,Manufacturas de baja tecnología,29820.5,6922.52
+1,Quindío,QUINDIO,Manufacturas de tecnología media,138895.2,107129
+1,Risaralda,RISARALDA,Bienes primarios,29157821.84,6474920.5600000005
+1,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,11381683.2,8877048.8
+1,Risaralda,RISARALDA,Manufacturas de alta tecnología,14526081.31,1391597.3900000001
+1,Risaralda,RISARALDA,Manufacturas de baja tecnología,1160824.6400000001,161326.32
+1,Risaralda,RISARALDA,Manufacturas de tecnología media,1391823.89,58358.87
+1,Risaralda,RISARALDA,Otras transacciones,0.96,5
+1,Santander,SANTANDER,Bienes primarios,35357186.39,28343395.36
+1,Santander,SANTANDER,Manufacturas basadas en recursos naturales,14875813.29,18322495.31
+1,Santander,SANTANDER,Manufacturas de alta tecnología,694854.8200000001,45907.85
+1,Santander,SANTANDER,Manufacturas de baja tecnología,1999994.98,362485.55
+1,Santander,SANTANDER,Manufacturas de tecnología media,3256492.62,726032.23
+1,Santander,SANTANDER,Otras transacciones,141.39000000000001,43.1
+1,Sucre,SUCRE,Bienes primarios,35610256.839999996,74178446
+1,Sucre,SUCRE,Manufacturas basadas en recursos naturales,133581.78,751500
+1,Sucre,SUCRE,Manufacturas de alta tecnología,10437.13,405.63
+1,Sucre,SUCRE,Manufacturas de tecnología media,10200,27000
+1,Tolima,TOLIMA,Bienes primarios,5716265.94,391185
+1,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,107708.43000000001,49841.1
+1,Tolima,TOLIMA,Manufacturas de baja tecnología,16171.51,4613.1
+1,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,25356756.52,6390016.93
+1,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,64473575.26,67760545.12
+1,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,22235705.38,3677546.61
+1,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,17893567.73,4448497.28
+1,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,33488097.62,14529368.59
+1,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,998768.08,13071.8
+2,Antioquia,ANTIOQUIA,Bienes primarios,274478357.31,109391115.11
+2,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,33133255.48,15984463.33
+2,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,5205532.93,600302.16
+2,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,53227431.89,9373072.4
+2,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,62538617.33,21336460.32
+2,Antioquia,ANTIOQUIA,Otras transacciones,323150697.14,39079.49
+2,Arauca,ARAUCA,Manufacturas de tecnología media,4872.27,920
+2,Atlántico,ATLANTICO,Bienes primarios,4241398.51,2044752.75
+2,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,34819026.09,14575110.43
+2,Atlántico,ATLANTICO,Manufacturas de alta tecnología,7966685.81,1250046.91
+2,Atlántico,ATLANTICO,Manufacturas de baja tecnología,57365913.86000001,8654853.63
+2,Atlántico,ATLANTICO,Manufacturas de tecnología media,20215728.93,5426345.63
+2,Atlántico,ATLANTICO,Otras transacciones,6779.62,755.5600000000001
+2,Bogotá,BOGOTA D.C.,Bienes primarios,189085890.82,26446734.89
+2,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,32873498,13855012.16
+2,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,27755680.26,867086.45
+2,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,37491667.75,6427910.55
+2,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,51669297.14,8755313.71
+2,Bogotá,BOGOTA D.C.,Otras transacciones,4573344.61,345402.12
+2,Bolívar,BOLIVAR,Bienes primarios,8364538.5600000005,4181181.19
+2,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,19727208.46,17039518.53
+2,Bolívar,BOLIVAR,Manufacturas de alta tecnología,3678765.65,13180.19
+2,Bolívar,BOLIVAR,Manufacturas de baja tecnología,14893477.2,4019318.62
+2,Bolívar,BOLIVAR,Manufacturas de tecnología media,87782061.65,62341965.41
+2,Bolívar,BOLIVAR,Otras transacciones,87522.96,13661.65
+2,Boyacá,BOYACA,Bienes primarios,744903.55,557785.95
+2,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,45182503.769999996,118826291.27
+2,Boyacá,BOYACA,Manufacturas de alta tecnología,11936.059999999998,581.3
+2,Boyacá,BOYACA,Manufacturas de baja tecnología,183858.07,8733.18
+2,Boyacá,BOYACA,Manufacturas de tecnología media,2233.92,228.25
+2,Caldas,CALDAS,Bienes primarios,93856846.91,11649660.88
+2,Caldas,CALDAS,Manufacturas basadas en recursos naturales,14977834.65,7089004.55
+2,Caldas,CALDAS,Manufacturas de alta tecnología,179733.45,6494.93
+2,Caldas,CALDAS,Manufacturas de baja tecnología,3060276.96,750275.18
+2,Caldas,CALDAS,Manufacturas de tecnología media,5497763.68,1387631.26
+2,Caldas,CALDAS,Otras transacciones,2279.3,279.88
+2,Caquetá,CAQUETA,Manufacturas basadas en recursos naturales,94701.6,42080
+2,Casanare,CASANARE,Bienes primarios,55257066.589999996,115166415
+2,Cauca,CAUCA,Bienes primarios,3367349.35,847685.32
+2,Cauca,CAUCA,Manufacturas basadas en recursos naturales,6817445.46,10457907.52
+2,Cauca,CAUCA,Manufacturas de alta tecnología,11327.43,55
+2,Cauca,CAUCA,Manufacturas de baja tecnología,468832.04000000004,133752.93
+2,Cauca,CAUCA,Manufacturas de tecnología media,3944123.12,2345852.85
+2,Cesar,CESAR,Bienes primarios,243528524.02,2445565710.8
+2,Cesar,CESAR,Manufacturas basadas en recursos naturales,237656.73,729400
+2,Cesar,CESAR,Manufacturas de baja tecnología,807.66,2.42
+2,Cesar,CESAR,Manufacturas de tecnología media,27170,832.5
+2,Chocó,CHOCO,Manufacturas basadas en recursos naturales,1674625.99,2351486.02
+2,Cundinamarca,CUNDINAMARCA,Bienes primarios,165358471.46,184444567.84
+2,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,51167619.78,148258046.94
+2,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,12522836.73,477947.5
+2,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,16593946.66,3239074.07
+2,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,40892173.62,7965014.99
+2,Cundinamarca,CUNDINAMARCA,Otras transacciones,464534.54,60443.11
+2,Córdoba,CORDOBA,Bienes primarios,18014477.169999998,85691976.31
+2,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,397039.66,927683.4
+2,Córdoba,CORDOBA,Manufacturas de baja tecnología,43979.6,27354.68
+2,Córdoba,CORDOBA,Manufacturas de tecnología media,29299113.78,8952809
+2,Guainía,GUAINIA,Manufacturas de baja tecnología,2743.95,585.7299999999999
+2,Guajira,LA GUAJIRA,Bienes primarios,93059683.23,1041461550
+2,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,340686.44,146065
+2,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,86036.06,49977.82
+2,Guajira,LA GUAJIRA,Manufacturas de tecnología media,1349106.9200000002,850037.29
+2,Huila,HUILA,Bienes primarios,88010662.09,12918124.04
+2,Huila,HUILA,Manufacturas basadas en recursos naturales,140270,37388
+2,Huila,HUILA,Manufacturas de baja tecnología,0.33,1365
+2,Magdalena,MAGDALENA,Bienes primarios,42989607.82,75317593.89999999
+2,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,684133.06,385063.35
+2,Magdalena,MAGDALENA,Manufacturas de baja tecnología,41802.23,11463.24
+2,Magdalena,MAGDALENA,Manufacturas de tecnología media,14390,5550
+2,Magdalena,MAGDALENA,Otras transacciones,7.5,2.25
+2,Meta,META,Bienes primarios,53787316.72,112259881
+2,Meta,META,Manufacturas basadas en recursos naturales,23973.36,24484.86
+2,Meta,META,Manufacturas de baja tecnología,24839.43,6932.1
+2,Meta,META,Manufacturas de tecnología media,182740.54,470920
+2,Nariño,NARINO,Bienes primarios,4250988.72,533591.15
+2,Nariño,NARINO,Manufacturas basadas en recursos naturales,217461.40999999997,353388.8
+2,Nariño,NARINO,Manufacturas de alta tecnología,5500,420
+2,Nariño,NARINO,Manufacturas de baja tecnología,84057.48999999999,2260.12
+2,Nariño,NARINO,Manufacturas de tecnología media,180658.59,31885.67
+2,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,15336794.58,87710316.4
+2,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,16480442.78,58741388.49
+2,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,177576.63,67362
+2,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,4743576.75,4237976.82
+2,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,2769983.72,2317412.38
+2,Quindío,QUINDIO,Bienes primarios,21673841.81,3953995.9
+2,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,619026.69,124875.27
+2,Quindío,QUINDIO,Manufacturas de baja tecnología,28197.79,5268.98
+2,Quindío,QUINDIO,Manufacturas de tecnología media,224971.57,244898.85
+2,Quindío,QUINDIO,Otras transacciones,804.75,55.32
+2,Risaralda,RISARALDA,Bienes primarios,30010103.830000002,7098729.85
+2,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,16297257.12,7082065.35
+2,Risaralda,RISARALDA,Manufacturas de alta tecnología,12365640.21,979735.17
+2,Risaralda,RISARALDA,Manufacturas de baja tecnología,1362686.8,244706.67
+2,Risaralda,RISARALDA,Manufacturas de tecnología media,3014324.57,196596.59
+2,Risaralda,RISARALDA,Otras transacciones,21.89,13.530000000000001
+2,Santander,SANTANDER,Bienes primarios,47136746.66,13214308.11
+2,Santander,SANTANDER,Manufacturas basadas en recursos naturales,16022274.85,18640813.14
+2,Santander,SANTANDER,Manufacturas de alta tecnología,11928.99,493.78
+2,Santander,SANTANDER,Manufacturas de baja tecnología,1909014.94,407510.79
+2,Santander,SANTANDER,Manufacturas de tecnología media,3347395.32,920428.01
+2,Santander,SANTANDER,Otras transacciones,74,15
+2,Sucre,SUCRE,Bienes primarios,23140609.44,46524217.87
+2,Sucre,SUCRE,Manufacturas basadas en recursos naturales,153018.25,787000
+2,Tolima,TOLIMA,Bienes primarios,8287839.969999999,1077160.4
+2,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,171486.74000000002,71255.5
+2,Tolima,TOLIMA,Manufacturas de alta tecnología,21798.25,334.55
+2,Tolima,TOLIMA,Manufacturas de baja tecnología,42473.75,3476.68
+2,Tolima,TOLIMA,Manufacturas de tecnología media,1350,490
+2,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,30140530.54,6966154.63
+2,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,72700119.19,63909291.8
+2,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,30814344.22,7681146.09
+2,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,24673503.83,6652166.6899999995
+2,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,49521320.12,19980589.26
+2,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,261693.68,23671.91
+2,Vichada,VICHADA,Manufacturas de baja tecnología,330.96,10.58
+3,Antioquia,ANTIOQUIA,Bienes primarios,249562234.11,136346296.87
+3,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,41754959.45,16636382.52
+3,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,6940432.37,811011.79
+3,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,55921775.98,9313769.63
+3,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,63035202.28,26821921.5
+3,Antioquia,ANTIOQUIA,Otras transacciones,323246965.2,18965.25
+3,Arauca,ARAUCA,Bienes primarios,25380,24624
+3,Arauca,ARAUCA,Manufacturas de alta tecnología,51494.4,21375.36
+3,Atlántico,ATLANTICO,Bienes primarios,5938639.29,3718910.47
+3,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,37870778.85,18155065.61
+3,Atlántico,ATLANTICO,Manufacturas de alta tecnología,9287824.21,2085625.3900000001
+3,Atlántico,ATLANTICO,Manufacturas de baja tecnología,72775577.17999999,14169476.19
+3,Atlántico,ATLANTICO,Manufacturas de tecnología media,31026539.41,8884664.29
+3,Atlántico,ATLANTICO,Otras transacciones,68937.29,6578.78
+3,Bogotá,BOGOTA D.C.,Bienes primarios,311093448.28000003,40922141.68
+3,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,150975709.19,150669886.8
+3,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,25707843.2,754151.71
+3,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,41005630.77,6193160.13
+3,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,62498184.56,10263466.57
+3,Bogotá,BOGOTA D.C.,Otras transacciones,5517220.8,427651.8
+3,Bolívar,BOLIVAR,Bienes primarios,34849606.370000005,73371263.72
+3,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,19447925.88,17760196.19
+3,Bolívar,BOLIVAR,Manufacturas de alta tecnología,1805830.38,88613.2
+3,Bolívar,BOLIVAR,Manufacturas de baja tecnología,18899893.81,4527655.96
+3,Bolívar,BOLIVAR,Manufacturas de tecnología media,101220676.12,72900237.22
+3,Bolívar,BOLIVAR,Otras transacciones,4532.59,925.13
+3,Boyacá,BOYACA,Bienes primarios,595770.76,350853.37
+3,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,32348760.34,110605125.85
+3,Boyacá,BOYACA,Manufacturas de baja tecnología,31409,2825.43
+3,Caldas,CALDAS,Bienes primarios,80965564.09,9133307.59
+3,Caldas,CALDAS,Manufacturas basadas en recursos naturales,15413800.33,7817179.32
+3,Caldas,CALDAS,Manufacturas de alta tecnología,438908.68,26050.260000000002
+3,Caldas,CALDAS,Manufacturas de baja tecnología,4059442.63,1024557.99
+3,Caldas,CALDAS,Manufacturas de tecnología media,8317260.36,1988139.42
+3,Caldas,CALDAS,Otras transacciones,21.25,19.79
+3,Caquetá,CAQUETA,Manufacturas de baja tecnología,1000,39.52
+3,Casanare,CASANARE,Bienes primarios,72346803.17,156023595
+3,Cauca,CAUCA,Bienes primarios,6481257.59,1078345
+3,Cauca,CAUCA,Manufacturas basadas en recursos naturales,4932009.71,8783595.47
+3,Cauca,CAUCA,Manufacturas de baja tecnología,770544.39,218689.47
+3,Cauca,CAUCA,Manufacturas de tecnología media,2855650.14,1650631.99
+3,Cauca,CAUCA,Otras transacciones,199622.11,3.07
+3,Cesar,CESAR,Bienes primarios,112390898.88000001,1146897247.4
+3,Cesar,CESAR,Manufacturas basadas en recursos naturales,362854.22,992270
+3,Cesar,CESAR,Manufacturas de baja tecnología,5721.6,1705.71
+3,Cesar,CESAR,Manufacturas de tecnología media,26183.89,15975.69
+3,Chocó,CHOCO,Bienes primarios,111491.18,1000
+3,Chocó,CHOCO,Manufacturas basadas en recursos naturales,372338.58,772231
+3,Chocó,CHOCO,Otras transacciones,1099766.86,16.59
+3,Cundinamarca,CUNDINAMARCA,Bienes primarios,135704137.7500001,18252393.73
+3,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,24089292.75,44611346.07
+3,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,21953661.150000002,1041055.56
+3,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,16796716.86,3172886.95
+3,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,38041727.55,8047004.07
+3,Cundinamarca,CUNDINAMARCA,Otras transacciones,336478.86,36683.18
+3,Córdoba,CORDOBA,Bienes primarios,15164030.99,61406853.27
+3,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,138539.16,47837.4
+3,Córdoba,CORDOBA,Manufacturas de alta tecnología,730,154
+3,Córdoba,CORDOBA,Manufacturas de baja tecnología,27723.239999999998,26973.93
+3,Córdoba,CORDOBA,Manufacturas de tecnología media,39076377.55,11405360
+3,Guajira,LA GUAJIRA,Bienes primarios,43885049.12,478171710
+3,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,495677.31,223245
+3,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,84917.53,15866.8
+3,Guajira,LA GUAJIRA,Manufacturas de tecnología media,1725498.7599999998,1220980.43
+3,Huila,HUILA,Bienes primarios,144171246.66,18875438.82
+3,Huila,HUILA,Manufacturas basadas en recursos naturales,37318.1,89991
+3,Huila,HUILA,Manufacturas de alta tecnología,3428,2546
+3,Magdalena,MAGDALENA,Bienes primarios,38167555.980000004,54432272.980000004
+3,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,490956.05,285270.84
+3,Magdalena,MAGDALENA,Manufacturas de baja tecnología,13094.77,695.8
+3,Magdalena,MAGDALENA,Manufacturas de tecnología media,23548.870000000003,660
+3,Meta,META,Bienes primarios,55554142.92,114977298.9
+3,Meta,META,Manufacturas de alta tecnología,74403,4136
+3,Meta,META,Manufacturas de baja tecnología,2718,1800
+3,Meta,META,Manufacturas de tecnología media,212281.8,474407.56
+3,Nariño,NARINO,Bienes primarios,3126102.04,372753.35
+3,Nariño,NARINO,Manufacturas basadas en recursos naturales,76421.24,95315
+3,Nariño,NARINO,Manufacturas de alta tecnología,1987.3,40
+3,Nariño,NARINO,Manufacturas de baja tecnología,26689.79,9515.41
+3,Nariño,NARINO,Manufacturas de tecnología media,97163.91,27537.3
+3,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,16253643.1,157929965.07
+3,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,22941036.900000002,106283186.88
+3,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,416999.23,75454.62
+3,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,4402428.62,3759613.75
+3,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,3000097.0300000003,2397635.82
+3,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,12742.87,6161.21
+3,Putumayo,PUTUMAYO,Bienes primarios,34105800.53,76579209
+3,Putumayo,PUTUMAYO,Manufacturas basadas en recursos naturales,12,42
+3,Quindío,QUINDIO,Bienes primarios,23330982.009999998,3499453.52
+3,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,939870.5800000001,157875.47
+3,Quindío,QUINDIO,Manufacturas de baja tecnología,32519.920000000002,7714.45
+3,Quindío,QUINDIO,Manufacturas de tecnología media,106261.45,95063.7
+3,Risaralda,RISARALDA,Bienes primarios,23040445.03,6084655.43
+3,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,16360935.700000001,5386693.999999999
+3,Risaralda,RISARALDA,Manufacturas de alta tecnología,21769863.58,2065824.3599999999
+3,Risaralda,RISARALDA,Manufacturas de baja tecnología,1341731.95,218791.56
+3,Risaralda,RISARALDA,Manufacturas de tecnología media,5499393.850000001,321708.84
+3,Risaralda,RISARALDA,Otras transacciones,228.5,499.91
+3,San Andrés,SAN ANDRES Y PROVIDENCIA,Manufacturas de tecnología media,6500,277
+3,Santander,SANTANDER,Bienes primarios,55683030.89,18545691.59
+3,Santander,SANTANDER,Manufacturas basadas en recursos naturales,15929824.57,17844061.13
+3,Santander,SANTANDER,Manufacturas de alta tecnología,11516.32,38.49
+3,Santander,SANTANDER,Manufacturas de baja tecnología,2777294.58,536174.86
+3,Santander,SANTANDER,Manufacturas de tecnología media,2854483.45,734826.43
+3,Santander,SANTANDER,Otras transacciones,47.2,8.45
+3,Sucre,SUCRE,Bienes primarios,57291120.879999995,127958570
+3,Sucre,SUCRE,Manufacturas basadas en recursos naturales,4917.26,26400
+3,Sucre,SUCRE,Manufacturas de tecnología media,10200,27000
+3,Tolima,TOLIMA,Bienes primarios,7138754.56,487737.92
+3,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,544451.11,232661.77
+3,Tolima,TOLIMA,Manufacturas de baja tecnología,71522.5,9436.289999999999
+3,Tolima,TOLIMA,Manufacturas de tecnología media,121614.44,18216.31
+3,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,34913697.44,7931668.44
+3,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,74828035.47,79023522.19
+3,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,27737196.17,7042004.02
+3,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,25435912.21,9000887.99
+3,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,46848954.53,19008159.810000002
+3,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,361960.89,31081.59
+4,Antioquia,ANTIOQUIA,Bienes primarios,352973067.31,268115220.75000003
+4,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,43976008.96,22253274.44
+4,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,7390612.84,762017.17
+4,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,63927150.24,11260019.83
+4,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,53896671.2,21778492.73
+4,Antioquia,ANTIOQUIA,Otras transacciones,321233129.58,25108.58
+4,Arauca,ARAUCA,Bienes primarios,729.48,100
+4,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,5019.64,2233.54
+4,Arauca,ARAUCA,Manufacturas de baja tecnología,3264.4,235.66
+4,Arauca,ARAUCA,Manufacturas de tecnología media,386618.78,73456.4
+4,Atlántico,ATLANTICO,Bienes primarios,5582267.54,3433784.7800000003
+4,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,33967192.83,48864989.58
+4,Atlántico,ATLANTICO,Manufacturas de alta tecnología,8731516.83,1705205.1300000001
+4,Atlántico,ATLANTICO,Manufacturas de baja tecnología,66107692.89,9806665.25
+4,Atlántico,ATLANTICO,Manufacturas de tecnología media,21258098.86,6524269.99
+4,Atlántico,ATLANTICO,Otras transacciones,21443.780000000002,4390.25
+4,Bogotá,BOGOTA D.C.,Bienes primarios,224638898.78,28226311.4
+4,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,93392581.5,84971163.39
+4,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,51298982.1,864114.04
+4,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,42070976.36,5867121.04
+4,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,78250577.48,9893493.42
+4,Bogotá,BOGOTA D.C.,Otras transacciones,5100953.92,567027.53
+4,Bolívar,BOLIVAR,Bienes primarios,63208899.800000004,86977020.57
+4,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,25490461.82,23015462.53
+4,Bolívar,BOLIVAR,Manufacturas de alta tecnología,564123.89,22336.66
+4,Bolívar,BOLIVAR,Manufacturas de baja tecnología,24222196.99,6584213.68
+4,Bolívar,BOLIVAR,Manufacturas de tecnología media,109563231.55,76936012.7
+4,Bolívar,BOLIVAR,Otras transacciones,606055.84,29493.899999999998
+4,Boyacá,BOYACA,Bienes primarios,1192947.71,453034.01
+4,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,27561397.96,84583620.88
+4,Boyacá,BOYACA,Manufacturas de alta tecnología,174255.14,1502.63
+4,Boyacá,BOYACA,Manufacturas de baja tecnología,21000,0.33
+4,Boyacá,BOYACA,Manufacturas de tecnología media,15254.759999999998,2980.78
+4,Caldas,CALDAS,Bienes primarios,81783806.13,9453517.55
+4,Caldas,CALDAS,Manufacturas basadas en recursos naturales,11638508.58,5634017.9
+4,Caldas,CALDAS,Manufacturas de alta tecnología,522319.41,28474.57
+4,Caldas,CALDAS,Manufacturas de baja tecnología,3369973.74,793572.19
+4,Caldas,CALDAS,Manufacturas de tecnología media,10801864.87,2608280.21
+4,Caldas,CALDAS,Otras transacciones,180720.75,1214.07
+4,Casanare,CASANARE,Bienes primarios,49032876.82,111291348
+4,Cauca,CAUCA,Bienes primarios,2454666.32,314315
+4,Cauca,CAUCA,Manufacturas basadas en recursos naturales,10447661.98,13099742.74
+4,Cauca,CAUCA,Manufacturas de baja tecnología,639338.37,175430.87
+4,Cauca,CAUCA,Manufacturas de tecnología media,4207892.5200000005,2512589.39
+4,Cauca,CAUCA,Otras transacciones,251.56,61.45
+4,Cesar,CESAR,Bienes primarios,173479789.97,1904711215
+4,Cesar,CESAR,Manufacturas basadas en recursos naturales,502175.54,1467150
+4,Cesar,CESAR,Manufacturas de baja tecnología,1183.37,6.5
+4,Chocó,CHOCO,Bienes primarios,12847,0.32
+4,Chocó,CHOCO,Manufacturas basadas en recursos naturales,1339634.35,2694456.86
+4,Chocó,CHOCO,Otras transacciones,906886.9,11.12
+4,Cundinamarca,CUNDINAMARCA,Bienes primarios,111474265.76,99033073.44
+4,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,21257410.59,28339229.93
+4,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,12917603.19,810175.49
+4,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,18020435.89,3408651.38
+4,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,52168569.93,9293983.17
+4,Cundinamarca,CUNDINAMARCA,Otras transacciones,708089.59,155242.69
+4,Córdoba,CORDOBA,Bienes primarios,11390200.22,93781595.08
+4,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,477193.85,1626751.47
+4,Córdoba,CORDOBA,Manufacturas de alta tecnología,2184.97,10.52
+4,Córdoba,CORDOBA,Manufacturas de baja tecnología,7751.03,494.13
+4,Córdoba,CORDOBA,Manufacturas de tecnología media,43961591.55,13704950.27
+4,Guainía,GUAINIA,Manufacturas de tecnología media,1551.95,1280
+4,Guajira,LA GUAJIRA,Bienes primarios,63347820.29,675877960
+4,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,4586.91,3200
+4,Guajira,LA GUAJIRA,Manufacturas de alta tecnología,3475.64,38.87
+4,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,847.36,4
+4,Guajira,LA GUAJIRA,Manufacturas de tecnología media,702030.8200000001,480517.24
+4,Huila,HUILA,Bienes primarios,112024509.71,14027363.31
+4,Huila,HUILA,Manufacturas basadas en recursos naturales,89924.72,41465.2
+4,Huila,HUILA,Manufacturas de baja tecnología,121.19,27.5
+4,Huila,HUILA,Manufacturas de tecnología media,46142,3683
+4,Magdalena,MAGDALENA,Bienes primarios,65481587.589999996,108651547.01
+4,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,325348.37,299645.44
+4,Magdalena,MAGDALENA,Manufacturas de baja tecnología,3334.29,154
+4,Magdalena,MAGDALENA,Manufacturas de tecnología media,392166.2,740568.2
+4,Magdalena,MAGDALENA,Otras transacciones,50,50
+4,Meta,META,Bienes primarios,16501265.530000001,36368345.4
+4,Meta,META,Manufacturas basadas en recursos naturales,20337.32,3696
+4,Meta,META,Manufacturas de alta tecnología,18710.95,1190
+4,Meta,META,Manufacturas de baja tecnología,10388.72,1518.35
+4,Meta,META,Manufacturas de tecnología media,191751.69,304170.75
+4,Meta,META,Otras transacciones,0.53,5
+4,Nariño,NARINO,Bienes primarios,4488959.9,491923.9
+4,Nariño,NARINO,Manufacturas basadas en recursos naturales,198958.38999999998,269747.18
+4,Nariño,NARINO,Manufacturas de alta tecnología,44297,245.6
+4,Nariño,NARINO,Manufacturas de baja tecnología,10083.35,1445.76
+4,Nariño,NARINO,Manufacturas de tecnología media,56285.49,24804.1
+4,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,81650162.67,792597161.06
+4,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,18069721.2,66572818.46
+4,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,230468.19,14771
+4,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,4599511.93,3783597.07
+4,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,2860261.17,1073109.58
+4,Putumayo,PUTUMAYO,Bienes primarios,23432989.47,55523958
+4,Quindío,QUINDIO,Bienes primarios,27552924.05,4312413.62
+4,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,1205126.8499999999,202094.1
+4,Quindío,QUINDIO,Manufacturas de baja tecnología,43272.36,12261.710000000001
+4,Quindío,QUINDIO,Manufacturas de tecnología media,208478.63,146534
+4,Quindío,QUINDIO,Otras transacciones,90,39
+4,Risaralda,RISARALDA,Bienes primarios,13786717.82,3466353.7199999997
+4,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,14264696.33,9051835.23
+4,Risaralda,RISARALDA,Manufacturas de alta tecnología,17907852.73,1411971.5
+4,Risaralda,RISARALDA,Manufacturas de baja tecnología,1541113.25,274822.3
+4,Risaralda,RISARALDA,Manufacturas de tecnología media,3677168.4499999997,250472.08
+4,Risaralda,RISARALDA,Otras transacciones,13.66,4.25
+4,Santander,SANTANDER,Bienes primarios,46051318.44,10411386.34
+4,Santander,SANTANDER,Manufacturas basadas en recursos naturales,17057671.56,18573969.79
+4,Santander,SANTANDER,Manufacturas de alta tecnología,35409.2,38.019999999999996
+4,Santander,SANTANDER,Manufacturas de baja tecnología,2760862.19,624445.4099999999
+4,Santander,SANTANDER,Manufacturas de tecnología media,5764785.81,1487274.17
+4,Santander,SANTANDER,Otras transacciones,55,7.819999999999999
+4,Sucre,SUCRE,Bienes primarios,951627.8200000001,730540
+4,Sucre,SUCRE,Manufacturas basadas en recursos naturales,212126.12,1204500
+4,Tolima,TOLIMA,Bienes primarios,9558186.58,943926.04
+4,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,251447.25,91777.5
+4,Tolima,TOLIMA,Manufacturas de baja tecnología,105505.76,13219.41
+4,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,30860668.06,8203581.04
+4,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,75904912.95,66611509.41
+4,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,25462809.08,5528008.99
+4,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,20452116.07,5896476.66
+4,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,48822213.77,20318137.85
+4,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,148109.67,10512.15
+5,Antioquia,ANTIOQUIA,Bienes primarios,338645932.48,243155306.2
+5,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,43098909.06,23248398.39
+5,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,6230127.44,665766.67
+5,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,63511185.43,10961057.68
+5,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,66313980.03,25876393.17
+5,Antioquia,ANTIOQUIA,Otras transacciones,322516686.59,45620.44
+5,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,25931.21,7002.969999999999
+5,Arauca,ARAUCA,Manufacturas de alta tecnología,371.9299999999999,67
+5,Arauca,ARAUCA,Manufacturas de baja tecnología,26876.72,13721.32
+5,Arauca,ARAUCA,Manufacturas de tecnología media,123242.61,18630
+5,Atlántico,ATLANTICO,Bienes primarios,3448948.38,2617738.58
+5,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,54574980.75,54077199.1
+5,Atlántico,ATLANTICO,Manufacturas de alta tecnología,7242256.8,1021890.3099999999
+5,Atlántico,ATLANTICO,Manufacturas de baja tecnología,81180494.5199999,11733623.24
+5,Atlántico,ATLANTICO,Manufacturas de tecnología media,33479530.55,9944765.629999999
+5,Atlántico,ATLANTICO,Otras transacciones,75790.59,12407
+5,Bogotá,BOGOTA D.C.,Bienes primarios,192378737.92000002,25254849.56
+5,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,92219871.69,83461954.75
+5,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,27283644,576141.29
+5,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,44886373.89,6473761.87
+5,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,60767896.9,10785806.49
+5,Bogotá,BOGOTA D.C.,Otras transacciones,8328995.57,546425.05
+5,Bolívar,BOLIVAR,Bienes primarios,5457055.82,1554876.03
+5,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,26692265.57,26569579.04
+5,Bolívar,BOLIVAR,Manufacturas de alta tecnología,249542.18,14426.91
+5,Bolívar,BOLIVAR,Manufacturas de baja tecnología,22604376.290000003,6216907.69
+5,Bolívar,BOLIVAR,Manufacturas de tecnología media,101932129.15,73073729.59
+5,Bolívar,BOLIVAR,Otras transacciones,363457.94,25400.14
+5,Boyacá,BOYACA,Bienes primarios,1022235.58,626961.6
+5,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,33063711.14,125298951.83
+5,Boyacá,BOYACA,Manufacturas de baja tecnología,21650.8,3564.8199999999997
+5,Boyacá,BOYACA,Manufacturas de tecnología media,17816.76,4128
+5,Caldas,CALDAS,Bienes primarios,77080361.19,9115032.2
+5,Caldas,CALDAS,Manufacturas basadas en recursos naturales,10648107.02,5364471.37
+5,Caldas,CALDAS,Manufacturas de alta tecnología,316328.08,17001.51
+5,Caldas,CALDAS,Manufacturas de baja tecnología,4081678.3,958040.17
+5,Caldas,CALDAS,Manufacturas de tecnología media,5097759.390000001,1441292.28
+5,Caldas,CALDAS,Otras transacciones,1184.56,1039.03
+5,Caquetá,CAQUETA,Manufacturas de baja tecnología,8477.28,1846.8300000000002
+5,Casanare,CASANARE,Bienes primarios,35911678.78,84821499
+5,Casanare,CASANARE,Manufacturas de tecnología media,141506.64,26100
+5,Cauca,CAUCA,Bienes primarios,3908992.24,825962.41
+5,Cauca,CAUCA,Manufacturas basadas en recursos naturales,4564486.65,6081743.83
+5,Cauca,CAUCA,Manufacturas de baja tecnología,730059.24,180045.96
+5,Cauca,CAUCA,Manufacturas de tecnología media,4949420.7,2851014.4
+5,Cauca,CAUCA,Otras transacciones,139657.55,1.97
+5,Cesar,CESAR,Bienes primarios,88090652.26,995875511
+5,Cesar,CESAR,Manufacturas basadas en recursos naturales,386115.31999999995,911903
+5,Cesar,CESAR,Manufacturas de tecnología media,129217.49,406558
+5,Chocó,CHOCO,Bienes primarios,22595.52,0.6
+5,Chocó,CHOCO,Manufacturas basadas en recursos naturales,491727.87,1628831.8
+5,Cundinamarca,CUNDINAMARCA,Bienes primarios,177964719.8199999,231023318.99
+5,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,24234448.919999998,45281235.76
+5,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,10278438.92,463111.61
+5,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,21633635.04,4051975.24
+5,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,43257910.96,9287302.87
+5,Cundinamarca,CUNDINAMARCA,Otras transacciones,482533.49,88139.93
+5,Córdoba,CORDOBA,Bienes primarios,8539057.21,32160566.95
+5,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,553546.46,569316.8
+5,Córdoba,CORDOBA,Manufacturas de baja tecnología,108846.86,107198.8
+5,Córdoba,CORDOBA,Manufacturas de tecnología media,38068244.160000004,10816203.71
+5,Guainía,GUAINIA,Manufacturas de tecnología media,6547.55,3748.8
+5,Guajira,LA GUAJIRA,Bienes primarios,284351673.38,3933984935
+5,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,79253.33,69884
+5,Guajira,LA GUAJIRA,Manufacturas de alta tecnología,132652.53,4570.4
+5,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,89392.25,28983
+5,Guajira,LA GUAJIRA,Manufacturas de tecnología media,1309770.86,831063.01
+5,Huila,HUILA,Bienes primarios,87942229.32,11373598.49
+5,Huila,HUILA,Manufacturas basadas en recursos naturales,32400,20000
+5,Magdalena,MAGDALENA,Bienes primarios,67645991.42,106628134.7
+5,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,1577749.04,1339566.29
+5,Magdalena,MAGDALENA,Manufacturas de baja tecnología,12976,827.1
+5,Magdalena,MAGDALENA,Manufacturas de tecnología media,593845.45,1168797.29
+5,Meta,META,Bienes primarios,40809100.31,98019609
+5,Meta,META,Manufacturas basadas en recursos naturales,5443.85,106.04
+5,Meta,META,Manufacturas de alta tecnología,81576,5222
+5,Meta,META,Manufacturas de baja tecnología,75784.76999999999,1569.8
+5,Meta,META,Manufacturas de tecnología media,1036372.34,955732
+5,Nariño,NARINO,Bienes primarios,2137435.02,218616.4
+5,Nariño,NARINO,Manufacturas basadas en recursos naturales,37518.01,53977.68
+5,Nariño,NARINO,Manufacturas de alta tecnología,16399.39,1110.5
+5,Nariño,NARINO,Manufacturas de baja tecnología,17469.04,1805.88
+5,Nariño,NARINO,Manufacturas de tecnología media,158722.82,80914.51
+5,Nariño,NARINO,Otras transacciones,1145854.82,12.21
+5,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,29150183.9,258136471.07
+5,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,54072348.71,257747365.57
+5,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,604830.84,37127.4
+5,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,2708344.37,1753593.64
+5,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,2634914.96,1315246.92
+5,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,11561.07,6817.2
+5,Quindío,QUINDIO,Bienes primarios,31423540.900000002,4456134.77
+5,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,1389689.95,302791.61
+5,Quindío,QUINDIO,Manufacturas de baja tecnología,63836.76,22783.6
+5,Quindío,QUINDIO,Manufacturas de tecnología media,147847.59,183912
+5,Quindío,QUINDIO,Otras transacciones,200,28
+5,Risaralda,RISARALDA,Bienes primarios,22268578.580000002,5875481.899999999
+5,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,21602717.18,12515323.59
+5,Risaralda,RISARALDA,Manufacturas de alta tecnología,16491448.87,1548928.37
+5,Risaralda,RISARALDA,Manufacturas de baja tecnología,1705583.3499999999,286262.21
+5,Risaralda,RISARALDA,Manufacturas de tecnología media,8327793.51,553607.61
+5,San Andrés,SAN ANDRES Y PROVIDENCIA,Manufacturas basadas en recursos naturales,34461.71,29989
+5,San Andrés,SAN ANDRES Y PROVIDENCIA,Manufacturas de tecnología media,170,2200
+5,Santander,SANTANDER,Bienes primarios,27238801.830000002,21912501.66
+5,Santander,SANTANDER,Manufacturas basadas en recursos naturales,17107176.74,18741177.78
+5,Santander,SANTANDER,Manufacturas de alta tecnología,28579.81,59.74
+5,Santander,SANTANDER,Manufacturas de baja tecnología,2824610.71,480563.18
+5,Santander,SANTANDER,Manufacturas de tecnología media,2340372.39,315994.43
+5,Santander,SANTANDER,Otras transacciones,104,10.7
+5,Sucre,SUCRE,Bienes primarios,32255290,77693264
+5,Sucre,SUCRE,Manufacturas basadas en recursos naturales,470770.80000000005,2376593
+5,Tolima,TOLIMA,Bienes primarios,13012717.21,1377226.6
+5,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,320630.36,160949.2
+5,Tolima,TOLIMA,Manufacturas de baja tecnología,77281.35,6642.69
+5,Tolima,TOLIMA,Manufacturas de tecnología media,70605.48,6984.99
+5,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,38392296.28,9222759.36
+5,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,75406287.45,64572720.63
+5,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,34811706.59,9734999.39
+5,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,26436378.02,7677520.93
+5,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,50675906.62,20944546.97
+5,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,2018717.6,34193.68
+6,Antioquia,ANTIOQUIA,Bienes primarios,254286459.0899999,153867493.56
+6,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,41803567.01,15770622.11
+6,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,8715041.91,884836.54
+6,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,54342780.6,8995542.07
+6,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,58782707.47,20899788.87
+6,Antioquia,ANTIOQUIA,Otras transacciones,269522306.95,20380.48
+6,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,108.72,15.66
+6,Arauca,ARAUCA,Manufacturas de baja tecnología,2401.44,35.86
+6,Arauca,ARAUCA,Manufacturas de tecnología media,51848,7900
+6,Atlántico,ATLANTICO,Bienes primarios,3813766.41,9825699.89
+6,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,40906994.839999996,15926504.54
+6,Atlántico,ATLANTICO,Manufacturas de alta tecnología,7750777.9,1061592.42
+6,Atlántico,ATLANTICO,Manufacturas de baja tecnología,81249551.01,12478987.62
+6,Atlántico,ATLANTICO,Manufacturas de tecnología media,30124068.400000002,7658114.48
+6,Atlántico,ATLANTICO,Otras transacciones,52861.29999999999,8531.71
+6,Bogotá,BOGOTA D.C.,Bienes primarios,219609936.53,30052715.57
+6,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,83319736.39,79016574.62
+6,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,25892635.76,758318.49
+6,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,38026405.41,5908201.72
+6,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,70448419.79,18637637.93
+6,Bogotá,BOGOTA D.C.,Otras transacciones,6225981.86,538552.06
+6,Bolívar,BOLIVAR,Bienes primarios,37843433.5,80291526.82
+6,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,17860923.89,14592934.73
+6,Bolívar,BOLIVAR,Manufacturas de alta tecnología,515252.60000000003,17238.82
+6,Bolívar,BOLIVAR,Manufacturas de baja tecnología,21058520.77,6021715.51
+6,Bolívar,BOLIVAR,Manufacturas de tecnología media,101392693.29999998,64525086.63
+6,Bolívar,BOLIVAR,Otras transacciones,2522.91,297.5
+6,Boyacá,BOYACA,Bienes primarios,24124651.57,182800283.26
+6,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,28578686.44,120897472.04
+6,Boyacá,BOYACA,Manufacturas de alta tecnología,4430,2.9000000000000004
+6,Boyacá,BOYACA,Manufacturas de baja tecnología,42052.99,162.92999999999998
+6,Boyacá,BOYACA,Manufacturas de tecnología media,18596.46,1484.27
+6,Caldas,CALDAS,Bienes primarios,114705718.11999999,11985434.63
+6,Caldas,CALDAS,Manufacturas basadas en recursos naturales,12715096.39,6799930.52
+6,Caldas,CALDAS,Manufacturas de alta tecnología,662512.45,41391.33
+6,Caldas,CALDAS,Manufacturas de baja tecnología,3798160.3,923439.34
+6,Caldas,CALDAS,Manufacturas de tecnología media,5069049,1389134.69
+6,Caldas,CALDAS,Otras transacciones,1207.6799999999998,802.25
+6,Caquetá,CAQUETA,Manufacturas basadas en recursos naturales,11747.55,39389.64
+6,Caquetá,CAQUETA,Manufacturas de baja tecnología,6743.21,141.7
+6,Casanare,CASANARE,Bienes primarios,68124952.35,147218589
+6,Casanare,CASANARE,Manufacturas de tecnología media,1135.79,4.3100000000000005
+6,Cauca,CAUCA,Bienes primarios,1573819.6,203059
+6,Cauca,CAUCA,Manufacturas basadas en recursos naturales,3127227.36,3823471.92
+6,Cauca,CAUCA,Manufacturas de baja tecnología,432529.81,130565.59
+6,Cauca,CAUCA,Manufacturas de tecnología media,7000146.16,3262850.27
+6,Cesar,CESAR,Bienes primarios,136629556.94,1566022869
+6,Cesar,CESAR,Manufacturas basadas en recursos naturales,260808.53,296756
+6,Cesar,CESAR,Manufacturas de tecnología media,305684.4,843790
+6,Chocó,CHOCO,Bienes primarios,44995.05,0.99
+6,Chocó,CHOCO,Manufacturas basadas en recursos naturales,286684.18,646595.14
+6,Chocó,CHOCO,Otras transacciones,3515283.82,37.95
+6,Cundinamarca,CUNDINAMARCA,Bienes primarios,129566316.9,88822873.75
+6,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,25435800.09,50381047.33
+6,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,16306951.790000001,858184.95
+6,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,18750905.8,3440763.23
+6,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,39338472.36,7909030.14
+6,Cundinamarca,CUNDINAMARCA,Otras transacciones,542718.27,49586.93
+6,Córdoba,CORDOBA,Bienes primarios,9551208.53,47585926.25
+6,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,207361.65,316553.7
+6,Córdoba,CORDOBA,Manufacturas de baja tecnología,551.15,6.24
+6,Córdoba,CORDOBA,Manufacturas de tecnología media,36794941.3,11272587
+6,Guajira,LA GUAJIRA,Bienes primarios,129979950.91,1789966501.67
+6,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,554042.71,184410
+6,Guajira,LA GUAJIRA,Manufacturas de alta tecnología,134941.99,4446
+6,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,200366.58,45289.87
+6,Guajira,LA GUAJIRA,Manufacturas de tecnología media,824730.14,464061.38
+6,Huila,HUILA,Bienes primarios,76930844.82,9357494.27
+6,Huila,HUILA,Manufacturas basadas en recursos naturales,31232.39,22223.5
+6,Huila,HUILA,Manufacturas de alta tecnología,21171.13,11287
+6,Huila,HUILA,Manufacturas de baja tecnología,164.25,17.19
+6,Huila,HUILA,Manufacturas de tecnología media,182458.03,4483.2
+6,Huila,HUILA,Otras transacciones,11.56,7.77
+6,Magdalena,MAGDALENA,Bienes primarios,51727420.81,69313157.86
+6,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,564814.2,445205.6
+6,Magdalena,MAGDALENA,Manufacturas de alta tecnología,23172.02,348.80999999999995
+6,Magdalena,MAGDALENA,Manufacturas de baja tecnología,50248.12,2985
+6,Magdalena,MAGDALENA,Manufacturas de tecnología media,82736.23,30584.3
+6,Meta,META,Bienes primarios,59988271.230000004,131199627.6
+6,Meta,META,Manufacturas basadas en recursos naturales,5037,876
+6,Meta,META,Manufacturas de alta tecnología,14454,1220
+6,Meta,META,Manufacturas de baja tecnología,0.02,0.5
+6,Meta,META,Manufacturas de tecnología media,157227.03,248360.8
+6,Meta,META,Otras transacciones,1.66,0.5
+6,Nariño,NARINO,Bienes primarios,14062179.09,1509166.05
+6,Nariño,NARINO,Manufacturas basadas en recursos naturales,37257.95,32166
+6,Nariño,NARINO,Manufacturas de alta tecnología,69116.42,2503
+6,Nariño,NARINO,Manufacturas de baja tecnología,64336.83,12737.42
+6,Nariño,NARINO,Manufacturas de tecnología media,69386.18,24210.12
+6,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,25162445.27,208519946.2
+6,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,24121540.330000002,100991776.74
+6,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,90192.56,8013.4
+6,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,3318059.29,2139429.4699999997
+6,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,2257197.89,998948.1799999999
+6,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,5.8,8.1
+6,Quindío,QUINDIO,Bienes primarios,34016741.79,5940766.19
+6,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,968807.83,135128.44999999998
+6,Quindío,QUINDIO,Manufacturas de alta tecnología,44040,316.8
+6,Quindío,QUINDIO,Manufacturas de baja tecnología,6598.910000000001,691
+6,Quindío,QUINDIO,Manufacturas de tecnología media,148331.64,61793
+6,Risaralda,RISARALDA,Bienes primarios,25750523.5,8711986.27
+6,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,13171777.18,7027380.97
+6,Risaralda,RISARALDA,Manufacturas de alta tecnología,19648387.13,1508241.01
+6,Risaralda,RISARALDA,Manufacturas de baja tecnología,1342110.49,293142.19
+6,Risaralda,RISARALDA,Manufacturas de tecnología media,2291431.37,182356.2
+6,Risaralda,RISARALDA,Otras transacciones,54986.06,2887.39
+6,Santander,SANTANDER,Bienes primarios,17785985.95,6357641.89
+6,Santander,SANTANDER,Manufacturas basadas en recursos naturales,15933124.209999999,17917385.04
+6,Santander,SANTANDER,Manufacturas de alta tecnología,8269.66,19.11
+6,Santander,SANTANDER,Manufacturas de baja tecnología,2863781.18,620140.87
+6,Santander,SANTANDER,Manufacturas de tecnología media,3337445.75,1000438.2
+6,Santander,SANTANDER,Otras transacciones,7.5,0.6
+6,Sucre,SUCRE,Bienes primarios,169310.9,180965
+6,Sucre,SUCRE,Manufacturas basadas en recursos naturales,206395,1005000
+6,Sucre,SUCRE,Manufacturas de tecnología media,340,800
+6,Tolima,TOLIMA,Bienes primarios,11638710.63,749601.2
+6,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,319860.85,105766.85
+6,Tolima,TOLIMA,Manufacturas de alta tecnología,2407.58,329.4
+6,Tolima,TOLIMA,Manufacturas de baja tecnología,102951.39,18752.86
+6,Tolima,TOLIMA,Manufacturas de tecnología media,89311.03,9314.12
+6,Tolima,TOLIMA,Otras transacciones,1,2.6
+6,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,30278880.52,7002446.96
+6,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,53469236.92,40441803.699999996
+6,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,30377479.76,6325393.72
+6,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,21687489.83,6457781.62
+6,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,48799848.23,18507579.82
+6,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,332714.08,24122.17
+6,Vichada,VICHADA,Manufacturas basadas en recursos naturales,1480,270
+7,Antioquia,ANTIOQUIA,Bienes primarios,282346385.19,177031627.01
+7,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,49785606.58,22810594.18
+7,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,8788910.950000001,860814.39
+7,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,64231238.04,11291502.18
+7,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,59229433.43,22572779.31
+7,Antioquia,ANTIOQUIA,Otras transacciones,361533828.55,54973.62
+7,Arauca,ARAUCA,Manufacturas de alta tecnología,749.8399999999999,105
+7,Arauca,ARAUCA,Manufacturas de baja tecnología,32917.229999999996,8067.67
+7,Arauca,ARAUCA,Manufacturas de tecnología media,90188.11,9488.75
+7,Arauca,ARAUCA,Otras transacciones,2,10.63
+7,Atlántico,ATLANTICO,Bienes primarios,3871093.77,3111030.39
+7,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,61613418.89,66115308.27
+7,Atlántico,ATLANTICO,Manufacturas de alta tecnología,9333628.57,1913776.74
+7,Atlántico,ATLANTICO,Manufacturas de baja tecnología,86660689.4099999,14168153.67
+7,Atlántico,ATLANTICO,Manufacturas de tecnología media,51305230.08,25708698.35
+7,Atlántico,ATLANTICO,Otras transacciones,45370.619999999995,3685.93
+7,Bogotá,BOGOTA D.C.,Bienes primarios,175775571.4,25396711.509999998
+7,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,98657725.2,83441894.64
+7,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,42022276.98,725401.12
+7,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,48937733.34,7051783.34
+7,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,76021384.26,12861845.73
+7,Bogotá,BOGOTA D.C.,Otras transacciones,6866161.77,569062.38
+7,Bolívar,BOLIVAR,Bienes primarios,92009187.33,86470337
+7,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,22080503.55,22795399.29
+7,Bolívar,BOLIVAR,Manufacturas de alta tecnología,1024000.66,36499.54
+7,Bolívar,BOLIVAR,Manufacturas de baja tecnología,20349260.15,4953929.04
+7,Bolívar,BOLIVAR,Manufacturas de tecnología media,149075122.75,81496653.52
+7,Bolívar,BOLIVAR,Otras transacciones,292993.06000000006,1462.59
+7,Boyacá,BOYACA,Bienes primarios,1416894.42,490667.54
+7,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,41670671.22,140716243.71
+7,Boyacá,BOYACA,Manufacturas de baja tecnología,49822.48,10165.6
+7,Boyacá,BOYACA,Manufacturas de tecnología media,23792.82,568.13
+7,Caldas,CALDAS,Bienes primarios,81909563.85,11058226.52
+7,Caldas,CALDAS,Manufacturas basadas en recursos naturales,14938642.07,6612277.5600000005
+7,Caldas,CALDAS,Manufacturas de alta tecnología,622655.2200000001,32535.89
+7,Caldas,CALDAS,Manufacturas de baja tecnología,3685308.68,901022.44
+7,Caldas,CALDAS,Manufacturas de tecnología media,7448697.67,1863317.19
+7,Caldas,CALDAS,Otras transacciones,226.04999999999998,197.66
+7,Casanare,CASANARE,Bienes primarios,63094099.38,137497626
+7,Casanare,CASANARE,Manufacturas de baja tecnología,60,8
+7,Cauca,CAUCA,Bienes primarios,3139822.81,748757
+7,Cauca,CAUCA,Manufacturas basadas en recursos naturales,7283194.8,10827648.1
+7,Cauca,CAUCA,Manufacturas de baja tecnología,629603.08,153982.88999999998
+7,Cauca,CAUCA,Manufacturas de tecnología media,4588396.96,2565319.25
+7,Cesar,CESAR,Bienes primarios,217152616,2618941756
+7,Cesar,CESAR,Manufacturas basadas en recursos naturales,179017.86,271376
+7,Cesar,CESAR,Manufacturas de baja tecnología,888.3299999999999,9
+7,Cesar,CESAR,Manufacturas de tecnología media,208133,466450
+7,Chocó,CHOCO,Bienes primarios,10841.18,2.56
+7,Chocó,CHOCO,Manufacturas basadas en recursos naturales,472909.19,1463602
+7,Chocó,CHOCO,Otras transacciones,1249439.4,13.42
+7,Cundinamarca,CUNDINAMARCA,Bienes primarios,105867990.06000009,82909509.03
+7,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,37156296.45,82911094.62
+7,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,9557996.2,473631.88
+7,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,17207579.73,3587929.33
+7,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,41222635.08,8270154.88
+7,Cundinamarca,CUNDINAMARCA,Otras transacciones,840697.83,164087.65
+7,Córdoba,CORDOBA,Bienes primarios,12079027.299999999,2620837.35
+7,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,519093.93,504076.96
+7,Córdoba,CORDOBA,Manufacturas de alta tecnología,47744.38,7071
+7,Córdoba,CORDOBA,Manufacturas de baja tecnología,56786.270000000004,46728
+7,Córdoba,CORDOBA,Manufacturas de tecnología media,36367188,11605566.07
+7,Guainía,GUAINIA,Manufacturas de tecnología media,2553,1188.8
+7,Guajira,LA GUAJIRA,Bienes primarios,130942454.47000001,1779631305
+7,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,227593.15,119960
+7,Guajira,LA GUAJIRA,Manufacturas de alta tecnología,164108.4,3192.1
+7,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,119979.2,33314
+7,Guajira,LA GUAJIRA,Manufacturas de tecnología media,1076239.74,736421.26
+7,Huila,HUILA,Bienes primarios,123421801.82,15751573.77
+7,Huila,HUILA,Manufacturas basadas en recursos naturales,42850,42850
+7,Huila,HUILA,Manufacturas de baja tecnología,0.6,825
+7,Huila,HUILA,Manufacturas de tecnología media,87075.18000000001,5648
+7,Magdalena,MAGDALENA,Bienes primarios,48478947.43,86192633.12
+7,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,912667.3200000001,607568.51
+7,Magdalena,MAGDALENA,Manufacturas de baja tecnología,44336.43,2564.5
+7,Magdalena,MAGDALENA,Manufacturas de tecnología media,328410.45999999996,609889
+7,Meta,META,Bienes primarios,39398625.510000005,83483470.69
+7,Meta,META,Manufacturas basadas en recursos naturales,19705.18,3575.06
+7,Meta,META,Manufacturas de alta tecnología,77601,3823.96
+7,Meta,META,Manufacturas de baja tecnología,13938.6,2116.98
+7,Meta,META,Manufacturas de tecnología media,399612.01,750098.27
+7,Nariño,NARINO,Bienes primarios,11502875.32,1282769.45
+7,Nariño,NARINO,Manufacturas basadas en recursos naturales,807701.2999999999,1144693.07
+7,Nariño,NARINO,Manufacturas de baja tecnología,33170.09,3984.71
+7,Nariño,NARINO,Manufacturas de tecnología media,173871.01,65041.58
+7,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,18184978.65,151519916.8
+7,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,34745394.22,158313426.19
+7,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,893906.2,34965.5
+7,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,3378716.98,2563719.07
+7,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,2931833.82,1049399.07
+7,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,15160.59,7383.16
+7,Putumayo,PUTUMAYO,Bienes primarios,20057557.41,54664890
+7,Quindío,QUINDIO,Bienes primarios,21266317.47,4309364.68
+7,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,1446518.36,212343.21
+7,Quindío,QUINDIO,Manufacturas de baja tecnología,169260.71,45031.69
+7,Quindío,QUINDIO,Manufacturas de tecnología media,26120.14,1043.41
+7,Quindío,QUINDIO,Otras transacciones,906.75,35.46
+7,Risaralda,RISARALDA,Bienes primarios,14915386.52,4592576.71
+7,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,14585200.56,5999415.04
+7,Risaralda,RISARALDA,Manufacturas de alta tecnología,25233539.650000002,1694343.3
+7,Risaralda,RISARALDA,Manufacturas de baja tecnología,1896496.8800000001,381891.74
+7,Risaralda,RISARALDA,Manufacturas de tecnología media,5037875.66,306566.51
+7,Risaralda,RISARALDA,Otras transacciones,26.400000000000002,8.66
+7,Santander,SANTANDER,Bienes primarios,45705364.18,15653583.21
+7,Santander,SANTANDER,Manufacturas basadas en recursos naturales,19944526.22,24605404.25
+7,Santander,SANTANDER,Manufacturas de alta tecnología,33360,38.68
+7,Santander,SANTANDER,Manufacturas de baja tecnología,2882555.32,664956.61
+7,Santander,SANTANDER,Manufacturas de tecnología media,4431912.1,380775.06
+7,Santander,SANTANDER,Otras transacciones,52947.32,153.05
+7,Sucre,SUCRE,Bienes primarios,61163629.379999995,154269287
+7,Sucre,SUCRE,Manufacturas basadas en recursos naturales,567568.42,2931130
+7,Sucre,SUCRE,Manufacturas de alta tecnología,10997.05,405.63
+7,Sucre,SUCRE,Manufacturas de tecnología media,10219.71,27055.7
+7,Tolima,TOLIMA,Bienes primarios,11664981.09,1274345.89
+7,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,176010.04,77894.33
+7,Tolima,TOLIMA,Manufacturas de baja tecnología,59188,5603.07
+7,Tolima,TOLIMA,Manufacturas de tecnología media,67799.6,2628.3
+7,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,36949243.66,8884998.22
+7,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,72315308.99,60359508.48
+7,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,32843184.53,7628220.82
+7,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,25136545.51,7330488.51
+7,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,60178920.29,22242668.43
+7,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,3149170.1,25081.45
+8,Antioquia,ANTIOQUIA,Bienes primarios,416793940.16,149419164.92000002
+8,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,38409583.03,12761793.02
+8,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,5290918.42,496234.04
+8,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,53898996.69,9415995.01
+8,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,68591353.16,21402564.580000002
+8,Antioquia,ANTIOQUIA,Otras transacciones,273575986.43,13436.289999999999
+8,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,1360.8,112.91
+8,Arauca,ARAUCA,Manufacturas de baja tecnología,772.5,4.19
+8,Arauca,ARAUCA,Manufacturas de tecnología media,32089.74,49400
+8,Atlántico,ATLANTICO,Bienes primarios,5405971.43,3067320.68
+8,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,41802328.15,41881070.89
+8,Atlántico,ATLANTICO,Manufacturas de alta tecnología,7854543.53,1264891.66
+8,Atlántico,ATLANTICO,Manufacturas de baja tecnología,63691989.83,11608359.78
+8,Atlántico,ATLANTICO,Manufacturas de tecnología media,26876703.9,7115573.12
+8,Atlántico,ATLANTICO,Otras transacciones,18494.96,3667.51
+8,Bogotá,BOGOTA D.C.,Bienes primarios,171734469.32,26236713.46
+8,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,92486129.59,83602605.01
+8,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,34383368.06,978990.62
+8,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,41035211.94,6687106
+8,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,61906806.65,17890372.21
+8,Bogotá,BOGOTA D.C.,Otras transacciones,8450405.77,503001.26
+8,Bolívar,BOLIVAR,Bienes primarios,3351927.47,1119741.74
+8,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,17660462.740000002,12308200.47
+8,Bolívar,BOLIVAR,Manufacturas de alta tecnología,641412.55,58764.24
+8,Bolívar,BOLIVAR,Manufacturas de baja tecnología,15393343.33,4102243.64
+8,Bolívar,BOLIVAR,Manufacturas de tecnología media,95445265.81,57638120.05
+8,Bolívar,BOLIVAR,Otras transacciones,37568.73,5514.549999999999
+8,Boyacá,BOYACA,Bienes primarios,1587621.1700000002,375172.2
+8,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,26487110.91,108891814.39
+8,Boyacá,BOYACA,Manufacturas de alta tecnología,76692.28,1114.59
+8,Boyacá,BOYACA,Manufacturas de baja tecnología,2344.26,480
+8,Boyacá,BOYACA,Manufacturas de tecnología media,73769.56,13814.6
+8,Caldas,CALDAS,Bienes primarios,102973159.82000001,10620449.24
+8,Caldas,CALDAS,Manufacturas basadas en recursos naturales,14417489.49,6951214.33
+8,Caldas,CALDAS,Manufacturas de alta tecnología,217011.38,26827.62
+8,Caldas,CALDAS,Manufacturas de baja tecnología,3958518.94,954466.91
+8,Caldas,CALDAS,Manufacturas de tecnología media,6322041.11,1455572.42
+8,Caldas,CALDAS,Otras transacciones,4672.77,780.38
+8,Caquetá,CAQUETA,Manufacturas de baja tecnología,27.6,1.2
+8,Casanare,CASANARE,Bienes primarios,65678775.27,146538567
+8,Casanare,CASANARE,Manufacturas basadas en recursos naturales,8100.91,485
+8,Casanare,CASANARE,Manufacturas de baja tecnología,4478,271
+8,Cauca,CAUCA,Bienes primarios,3244392.79,669107
+8,Cauca,CAUCA,Manufacturas basadas en recursos naturales,10605304.84,14655493.28
+8,Cauca,CAUCA,Manufacturas de baja tecnología,710014.22,190879.16
+8,Cauca,CAUCA,Manufacturas de tecnología media,4056399.67,2383005.5
+8,Cauca,CAUCA,Otras transacciones,780,21.3
+8,Cesar,CESAR,Bienes primarios,127089803.52,1526356610
+8,Cesar,CESAR,Manufacturas basadas en recursos naturales,145311.97,417870
+8,Cesar,CESAR,Manufacturas de baja tecnología,414.4,1.9
+8,Cesar,CESAR,Manufacturas de tecnología media,93050,289750
+8,Chocó,CHOCO,Bienes primarios,154173.2,302.3
+8,Chocó,CHOCO,Manufacturas basadas en recursos naturales,747638.5499999999,1044244.3
+8,Chocó,CHOCO,Otras transacciones,1239949.17,13.11
+8,Cundinamarca,CUNDINAMARCA,Bienes primarios,98434540.86999992,72857700.99
+8,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,15079569.35,11390097.87
+8,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,13702656.709999999,681042.45
+8,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,17107371.78,4062482.51
+8,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,33024669.03,6756230.72
+8,Cundinamarca,CUNDINAMARCA,Otras transacciones,497109.22,44402.12
+8,Córdoba,CORDOBA,Bienes primarios,11178406.569999998,23267463.29
+8,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,326790.61,351412.9
+8,Córdoba,CORDOBA,Manufacturas de baja tecnología,961,128.5
+8,Córdoba,CORDOBA,Manufacturas de tecnología media,41070788.21,12563567
+8,Guainía,GUAINIA,Manufacturas de baja tecnología,1170,248.5
+8,Guajira,LA GUAJIRA,Bienes primarios,417538.64,316056.4
+8,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,338121.83,186045.64
+8,Guajira,LA GUAJIRA,Manufacturas de alta tecnología,380753,8371
+8,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,190248.03,84321.3
+8,Guajira,LA GUAJIRA,Manufacturas de tecnología media,2396967.45,1474834.92
+8,Guaviare,GUAVIARE,Manufacturas de tecnología media,104.5,13.92
+8,Huila,HUILA,Bienes primarios,149098496.79,20059276.46
+8,Huila,HUILA,Manufacturas basadas en recursos naturales,54748.8,5020.8
+8,Magdalena,MAGDALENA,Bienes primarios,80457233.71,122880397.00999999
+8,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,744746.0700000001,677319.73
+8,Magdalena,MAGDALENA,Manufacturas de alta tecnología,3110.0899999999997,274.57
+8,Magdalena,MAGDALENA,Manufacturas de baja tecnología,1346,82
+8,Magdalena,MAGDALENA,Manufacturas de tecnología media,122126.45,6200.71
+8,Meta,META,Bienes primarios,34860881.269999996,77121121
+8,Meta,META,Manufacturas de baja tecnología,18767.85,5555
+8,Meta,META,Manufacturas de tecnología media,343456.88,715003.87
+8,Nariño,NARINO,Bienes primarios,16086552.4,1908967.1
+8,Nariño,NARINO,Manufacturas basadas en recursos naturales,61177.2,43421.4
+8,Nariño,NARINO,Manufacturas de alta tecnología,15680.78,186
+8,Nariño,NARINO,Manufacturas de baja tecnología,24692.31,7182.04
+8,Nariño,NARINO,Manufacturas de tecnología media,160722.49,48398.08
+8,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,19901141.63,183607634.18
+8,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,37203869.21,162367660.81
+8,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,385160.94,21313.48
+8,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,3295482.01,2484715.5
+8,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,2981714.72,1169830.76
+8,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,255.68,50
+8,Putumayo,PUTUMAYO,Manufacturas de tecnología media,319000,16800
+8,Quindío,QUINDIO,Bienes primarios,19926225.73,3377020.7
+8,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,849926.3099999999,127789.48
+8,Quindío,QUINDIO,Manufacturas de alta tecnología,139391.28,983.87
+8,Quindío,QUINDIO,Manufacturas de baja tecnología,76937.04,19666.09
+8,Quindío,QUINDIO,Manufacturas de tecnología media,155695.78999999998,180228
+8,Risaralda,RISARALDA,Bienes primarios,13809067.91,3603618.1
+8,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,17828063.07,12328758.62
+8,Risaralda,RISARALDA,Manufacturas de alta tecnología,17214866.03,1483700.57
+8,Risaralda,RISARALDA,Manufacturas de baja tecnología,1343486.89,300287.16000000003
+8,Risaralda,RISARALDA,Manufacturas de tecnología media,1357115.78,117101.18
+8,Risaralda,RISARALDA,Otras transacciones,2.5,0.01
+8,Santander,SANTANDER,Bienes primarios,30794059.220000003,10416445.42
+8,Santander,SANTANDER,Manufacturas basadas en recursos naturales,16779013.990000002,20744383.1
+8,Santander,SANTANDER,Manufacturas de alta tecnología,24265.829999999998,78.67
+8,Santander,SANTANDER,Manufacturas de baja tecnología,2331601.31,495359.02
+8,Santander,SANTANDER,Manufacturas de tecnología media,3489190.37,904838.65
+8,Santander,SANTANDER,Otras transacciones,160.99,37.32
+8,Sucre,SUCRE,Bienes primarios,194602,163415
+8,Sucre,SUCRE,Manufacturas de baja tecnología,80,848
+8,Sucre,SUCRE,Manufacturas de tecnología media,65418,34000
+8,Tolima,TOLIMA,Bienes primarios,14258660.23,1534314.71
+8,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,326538.01999999996,101598
+8,Tolima,TOLIMA,Manufacturas de baja tecnología,104035.93,12243.58
+8,Tolima,TOLIMA,Manufacturas de tecnología media,157215.77,8111.28
+8,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,40036577.87,9912878.97
+8,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,69809930.04,65515350.1
+8,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,27253846.35,6889039.97
+8,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,21761410.02,6622460.09
+8,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,44068390.18,16808742.03
+8,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,35854.29,1506.72
+9,Amazonas,AMAZONAS,Manufacturas de alta tecnología,2083.2,144
+9,Antioquia,ANTIOQUIA,Bienes primarios,534696412.6,192217588.66
+9,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,46269083.16,15582982
+9,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,7415350.86,820406.28
+9,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,62116428.64,11041486.55
+9,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,71939841.29,21974805.01
+9,Antioquia,ANTIOQUIA,Otras transacciones,389461241.05,45534.13
+9,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,33998,44500
+9,Arauca,ARAUCA,Manufacturas de baja tecnología,9171.34,8568.09
+9,Arauca,ARAUCA,Manufacturas de tecnología media,93228.19,100109.66
+9,Atlántico,ATLANTICO,Bienes primarios,7636711.5,9010445.75
+9,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,32943778.29,13668562.65
+9,Atlántico,ATLANTICO,Manufacturas de alta tecnología,9400127.18,1599793.1199999999
+9,Atlántico,ATLANTICO,Manufacturas de baja tecnología,75003241.44,14186477.11
+9,Atlántico,ATLANTICO,Manufacturas de tecnología media,36786308.62,8374422.1
+9,Atlántico,ATLANTICO,Otras transacciones,46291.9,7703.18
+9,Bogotá,BOGOTA D.C.,Bienes primarios,288009286.3,52549931.54
+9,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,96788758.18,86934815.99
+9,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,32437358.95,741771.17
+9,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,43200588.32,6459021.01
+9,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,71015662.2,12954153.05
+9,Bogotá,BOGOTA D.C.,Otras transacciones,6604809.44,732584.7899999999
+9,Bolívar,BOLIVAR,Bienes primarios,23666788.560000002,37209828.86
+9,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,18360165.85,14335896.99
+9,Bolívar,BOLIVAR,Manufacturas de alta tecnología,590025.36,30944.18
+9,Bolívar,BOLIVAR,Manufacturas de baja tecnología,17704980.85,4118387.27
+9,Bolívar,BOLIVAR,Manufacturas de tecnología media,136850991.48,79959655.48
+9,Bolívar,BOLIVAR,Otras transacciones,390917.76,11720.43
+9,Boyacá,BOYACA,Bienes primarios,1569521.59,848350.4
+9,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,45688369.11,162155471.79
+9,Boyacá,BOYACA,Manufacturas de alta tecnología,12117.519999999999,450.67999999999995
+9,Boyacá,BOYACA,Manufacturas de baja tecnología,20500.02,2375.6099999999997
+9,Boyacá,BOYACA,Manufacturas de tecnología media,14821.54,595.58
+9,Caldas,CALDAS,Bienes primarios,55417925.26,7708119.45
+9,Caldas,CALDAS,Manufacturas basadas en recursos naturales,14664529.31,7449741.09
+9,Caldas,CALDAS,Manufacturas de alta tecnología,788904.9299999999,53843.409999999996
+9,Caldas,CALDAS,Manufacturas de baja tecnología,5110606.28,1231176.37
+9,Caldas,CALDAS,Manufacturas de tecnología media,9771771.6,2515190.95
+9,Caldas,CALDAS,Otras transacciones,1538.87,2847.77
+9,Casanare,CASANARE,Bienes primarios,60656730.44,140341479
+9,Cauca,CAUCA,Bienes primarios,3234746.39,407587
+9,Cauca,CAUCA,Manufacturas basadas en recursos naturales,6048812.47,8670975.05
+9,Cauca,CAUCA,Manufacturas de baja tecnología,928788.1900000001,285764.27
+9,Cauca,CAUCA,Manufacturas de tecnología media,4858559.57,2672076.8899999997
+9,Cesar,CESAR,Bienes primarios,208768716.55,2698752972
+9,Cesar,CESAR,Manufacturas basadas en recursos naturales,68977.4,308782
+9,Cesar,CESAR,Manufacturas de baja tecnología,4965.320000000001,145.92
+9,Cesar,CESAR,Manufacturas de tecnología media,272812,721318
+9,Chocó,CHOCO,Manufacturas basadas en recursos naturales,705734.45,1771591.34
+9,Chocó,CHOCO,Otras transacciones,1362225.06,15.99
+9,Cundinamarca,CUNDINAMARCA,Bienes primarios,112305098.99,213853238.44
+9,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,33230968.72,81698904.66
+9,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,19477924.41,1098168.03
+9,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,15381017.91,3474513.57
+9,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,47564716.84,8877329.74
+9,Cundinamarca,CUNDINAMARCA,Otras transacciones,931916.65,122841.93
+9,Córdoba,CORDOBA,Bienes primarios,17059665.8,109893029.99
+9,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,367576.76,171995
+9,Córdoba,CORDOBA,Manufacturas de alta tecnología,290,44
+9,Córdoba,CORDOBA,Manufacturas de tecnología media,36330025.65,11166224
+9,Guajira,LA GUAJIRA,Bienes primarios,125965918.19,1417002839.79
+9,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,123747.20000000001,56799
+9,Guajira,LA GUAJIRA,Manufacturas de alta tecnología,266490.29000000004,2996.27
+9,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,53263.47,8160.5
+9,Guajira,LA GUAJIRA,Manufacturas de tecnología media,1291960.34,858239.34
+9,Guajira,LA GUAJIRA,Otras transacciones,166.24,0.23
+9,Huila,HUILA,Bienes primarios,143115304.04,18698042.48
+9,Huila,HUILA,Manufacturas basadas en recursos naturales,34662.979999999996,21514.46
+9,Huila,HUILA,Manufacturas de baja tecnología,3314.09,517.46
+9,Huila,HUILA,Manufacturas de tecnología media,8676.76,944.5999999999999
+9,Magdalena,MAGDALENA,Bienes primarios,73501250.47,131106334.08
+9,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,305745.3,364907.39999999997
+9,Magdalena,MAGDALENA,Manufacturas de baja tecnología,6038.04,352.24
+9,Magdalena,MAGDALENA,Manufacturas de tecnología media,99705.84,33042.01
+9,Meta,META,Bienes primarios,33947752.43,77383506.44
+9,Meta,META,Manufacturas basadas en recursos naturales,1963.2,675.6800000000001
+9,Meta,META,Manufacturas de alta tecnología,58560.6,5081.21
+9,Meta,META,Manufacturas de baja tecnología,27554.16,10439.91
+9,Meta,META,Manufacturas de tecnología media,245552.95,480147.15
+9,Nariño,NARINO,Bienes primarios,9902447.98,2158540.5
+9,Nariño,NARINO,Manufacturas basadas en recursos naturales,53625.7,39965.8
+9,Nariño,NARINO,Manufacturas de alta tecnología,152650.16999999998,76939.1
+9,Nariño,NARINO,Manufacturas de baja tecnología,72967.25,7899.54
+9,Nariño,NARINO,Manufacturas de tecnología media,118797.64,46144.18
+9,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,45987099.51,454243340
+9,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,44801316.580000006,230154342.89
+9,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,685120.4199999999,31680.879999999997
+9,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,6159960.58,5813429.11
+9,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,3566807.89,1966356.3
+9,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,21158.75,1343.52
+9,Putumayo,PUTUMAYO,Bienes primarios,12968268.68,32007633
+9,Quindío,QUINDIO,Bienes primarios,13988978.88,2777349.07
+9,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,1101662.63,240017.53
+9,Quindío,QUINDIO,Manufacturas de baja tecnología,92946.16,25487.77
+9,Quindío,QUINDIO,Manufacturas de tecnología media,214635.75,145256.68
+9,Risaralda,RISARALDA,Bienes primarios,14416038.96,5507137.83
+9,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,13871112.39,7491999.15
+9,Risaralda,RISARALDA,Manufacturas de alta tecnología,23546818.61,1884716.19
+9,Risaralda,RISARALDA,Manufacturas de baja tecnología,2068683.1199999999,372054.86
+9,Risaralda,RISARALDA,Manufacturas de tecnología media,12483878.4,725789.39
+9,Risaralda,RISARALDA,Otras transacciones,0.52,4.85
+9,Santander,SANTANDER,Bienes primarios,11449726.459999999,5143619.98
+9,Santander,SANTANDER,Manufacturas basadas en recursos naturales,20326126.62,24855953.31
+9,Santander,SANTANDER,Manufacturas de alta tecnología,28616.96,214.4
+9,Santander,SANTANDER,Manufacturas de baja tecnología,2886189.71,504639.03
+9,Santander,SANTANDER,Manufacturas de tecnología media,4688836.63,938780.19
+9,Santander,SANTANDER,Otras transacciones,5502.5,654.4399999999999
+9,Sucre,SUCRE,Bienes primarios,54708289.62,131483730
+9,Sucre,SUCRE,Manufacturas basadas en recursos naturales,311896.75,1670500
+9,Sucre,SUCRE,Manufacturas de baja tecnología,11432.88,25
+9,Sucre,SUCRE,Manufacturas de tecnología media,10200,27000
+9,Tolima,TOLIMA,Bienes primarios,10576455.03,883665
+9,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,74302.85,31251.4
+9,Tolima,TOLIMA,Manufacturas de alta tecnología,6419.71,408.6
+9,Tolima,TOLIMA,Manufacturas de baja tecnología,86615.64,7970.35
+9,Tolima,TOLIMA,Manufacturas de tecnología media,31452.37,4310.2
+9,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,35006311.69,9243109.19
+9,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,69929740.02,59354375.95
+9,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,29898050.6,6424917.33
+9,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,25855782.35,7353964.96
+9,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,53115810.52,19361901.09
+9,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,220762.04,21531.199999999997
+9,Vaupés,VAUPES,Manufacturas basadas en recursos naturales,6433.35,363.6
+10,Antioquia,ANTIOQUIA,Bienes primarios,334031595.47,230441497.94
+10,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,39695471.38,16331843.31
+10,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,4358737.47,503537.12
+10,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,63702330.78,10218519.74
+10,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,74791510.7,21272127.26
+10,Antioquia,ANTIOQUIA,Otras transacciones,423366850.03,30533.09
+10,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,6551.14,12500
+10,Arauca,ARAUCA,Manufacturas de baja tecnología,9872.41,8405.7
+10,Arauca,ARAUCA,Otras transacciones,11,0.35
+10,Atlántico,ATLANTICO,Bienes primarios,7147018.34,4477993.79
+10,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,43957286.59,46282237.34
+10,Atlántico,ATLANTICO,Manufacturas de alta tecnología,14329589.11,1670387.72
+10,Atlántico,ATLANTICO,Manufacturas de baja tecnología,68983632.66,10679230.56
+10,Atlántico,ATLANTICO,Manufacturas de tecnología media,28309422.450000003,7707616.13
+10,Atlántico,ATLANTICO,Otras transacciones,24665.46,3548.1800000000003
+10,Bogotá,BOGOTA D.C.,Bienes primarios,213560725.09,28112008.6
+10,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,89135706.41,76727241.55
+10,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,77085909.13,812123.94
+10,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,45969373.55,6647846.46
+10,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,60313584.65,9339649.33
+10,Bogotá,BOGOTA D.C.,Otras transacciones,8890304.74,559356.64
+10,Bolívar,BOLIVAR,Bienes primarios,11638889.889999999,3682552.5
+10,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,19138239.17,17039152.19
+10,Bolívar,BOLIVAR,Manufacturas de alta tecnología,856552.2,63227.07
+10,Bolívar,BOLIVAR,Manufacturas de baja tecnología,20019896.34,5049155.08
+10,Bolívar,BOLIVAR,Manufacturas de tecnología media,134589814.17,81573509.87
+10,Bolívar,BOLIVAR,Otras transacciones,8213.56,217.62
+10,Boyacá,BOYACA,Bienes primarios,1219441.81,245750.22
+10,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,13766444.49,57408865.12
+10,Boyacá,BOYACA,Manufacturas de baja tecnología,263377.94,76481.14
+10,Caldas,CALDAS,Bienes primarios,67734166.44,8252874.93
+10,Caldas,CALDAS,Manufacturas basadas en recursos naturales,14770821.28,6342263.69
+10,Caldas,CALDAS,Manufacturas de alta tecnología,408051.45,22549.03
+10,Caldas,CALDAS,Manufacturas de baja tecnología,4164579.12,1058785.45
+10,Caldas,CALDAS,Manufacturas de tecnología media,8984272.709999999,2135699.46
+10,Caldas,CALDAS,Otras transacciones,311.85,110.18
+10,Caquetá,CAQUETA,Bienes primarios,34239.74,20160
+10,Caquetá,CAQUETA,Manufacturas basadas en recursos naturales,242.88,92.73
+10,Casanare,CASANARE,Bienes primarios,14755940.69,35223846
+10,Casanare,CASANARE,Manufacturas basadas en recursos naturales,1175,92.42
+10,Cauca,CAUCA,Bienes primarios,5625329.77,821373
+10,Cauca,CAUCA,Manufacturas basadas en recursos naturales,12786572.17,19069553.26
+10,Cauca,CAUCA,Manufacturas de baja tecnología,1562991.48,373007.83999999997
+10,Cauca,CAUCA,Manufacturas de tecnología media,4245833.95,2304820.51
+10,Cauca,CAUCA,Otras transacciones,307.9,11.5
+10,Cesar,CESAR,Bienes primarios,222484641.84,2930926853
+10,Cesar,CESAR,Manufacturas basadas en recursos naturales,60993.95000000001,237210.29
+10,Cesar,CESAR,Manufacturas de tecnología media,275226,743000
+10,Chocó,CHOCO,Manufacturas basadas en recursos naturales,354435.92,1064831.12
+10,Cundinamarca,CUNDINAMARCA,Bienes primarios,103478792.65,114457817.66
+10,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,28417436.959999997,54785566.8
+10,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,14939700.879999999,647305.27
+10,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,17602326.74,3852744.21
+10,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,41536621.28,7985978.33
+10,Cundinamarca,CUNDINAMARCA,Otras transacciones,587288.2000000001,100402.88000000002
+10,Córdoba,CORDOBA,Bienes primarios,12885971.65,88310134.34
+10,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,196325.75999999998,193349
+10,Córdoba,CORDOBA,Manufacturas de baja tecnología,78672.5,11601.03
+10,Córdoba,CORDOBA,Manufacturas de tecnología media,41331514.6,12331930
+10,Guainía,GUAINIA,Manufacturas de alta tecnología,2815.8,6.56
+10,Guajira,LA GUAJIRA,Bienes primarios,106352675.79,1319407074.4
+10,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,399507.12,194155
+10,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,136101.34,55961.12
+10,Guajira,LA GUAJIRA,Manufacturas de tecnología media,1744020.08,897864
+10,Huila,HUILA,Bienes primarios,165782721.99,20681083.39
+10,Huila,HUILA,Manufacturas basadas en recursos naturales,126309.68,55594.1
+10,Huila,HUILA,Manufacturas de baja tecnología,0.08,4
+10,Huila,HUILA,Manufacturas de tecnología media,45825,138.88
+10,Huila,HUILA,Otras transacciones,105484.35,1
+10,Magdalena,MAGDALENA,Bienes primarios,53096652.09,87998462.28999999
+10,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,821917.8,442861.39
+10,Magdalena,MAGDALENA,Manufacturas de baja tecnología,91282,7148
+10,Magdalena,MAGDALENA,Manufacturas de tecnología media,587680.53,827629.82
+10,Meta,META,Bienes primarios,18605229.91,39778223.95
+10,Meta,META,Manufacturas basadas en recursos naturales,516.24,27.49
+10,Meta,META,Manufacturas de baja tecnología,7002.72,1779.89
+10,Meta,META,Manufacturas de tecnología media,242661.5,474175
+10,Nariño,NARINO,Bienes primarios,17717998.04,2945916.77
+10,Nariño,NARINO,Manufacturas basadas en recursos naturales,40990.58,42642.369999999995
+10,Nariño,NARINO,Manufacturas de alta tecnología,2000,7780
+10,Nariño,NARINO,Manufacturas de tecnología media,64848.92,40969.67
+10,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,13857337.34,110578180.8
+10,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,30934965.189999998,151795319.3
+10,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,618972.75,40952.1
+10,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,4490667.95,3388975.4
+10,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,3001532.63,1119344.96
+10,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,192,152
+10,Quindío,QUINDIO,Bienes primarios,20581138.14,3163587.16
+10,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,927212.3099999999,178600.76
+10,Quindío,QUINDIO,Manufacturas de baja tecnología,60043.71,16061.550000000001
+10,Quindío,QUINDIO,Manufacturas de tecnología media,165746.9,108115
+10,Risaralda,RISARALDA,Bienes primarios,29328946.03,8723718.5
+10,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,16938733.07,7774755.46
+10,Risaralda,RISARALDA,Manufacturas de alta tecnología,11110908.51,1062972.53
+10,Risaralda,RISARALDA,Manufacturas de baja tecnología,1935563.29,354150.65
+10,Risaralda,RISARALDA,Manufacturas de tecnología media,11617799.82,750036.79
+10,Santander,SANTANDER,Bienes primarios,22382899.61,42428375.46
+10,Santander,SANTANDER,Manufacturas basadas en recursos naturales,23389942.75,27389089.15
+10,Santander,SANTANDER,Manufacturas de alta tecnología,3557.52,0.62
+10,Santander,SANTANDER,Manufacturas de baja tecnología,3287867.2,632522.7
+10,Santander,SANTANDER,Manufacturas de tecnología media,4595572.27,1453510.85
+10,Santander,SANTANDER,Otras transacciones,73,25.220000000000002
+10,Sucre,SUCRE,Bienes primarios,56454658.17,146050711
+10,Sucre,SUCRE,Manufacturas basadas en recursos naturales,261019.25,1443000
+10,Tolima,TOLIMA,Bienes primarios,11062691.89,771757.18
+10,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,265461.5,236274.82
+10,Tolima,TOLIMA,Manufacturas de alta tecnología,82103.2,3472.08
+10,Tolima,TOLIMA,Manufacturas de baja tecnología,111237,9438.59
+10,Tolima,TOLIMA,Manufacturas de tecnología media,5680,640
+10,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,54242818.53,11204066.58
+10,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,73443033.45,69318693.56
+10,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,27740895.3,6879421.83
+10,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,23865305.48,7280670.149999999
+10,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,46931700.47,16597386.57
+10,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,221369.59,21928.969999999998
+11,Antioquia,ANTIOQUIA,Bienes primarios,325761179.8799999,253242727.37
+11,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,34966393.01,13805892.26
+11,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,5597374.42,322735.17
+11,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,57686376.66,9343261.18
+11,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,62280886.28,15973573.07
+11,Antioquia,ANTIOQUIA,Otras transacciones,294811252.06,18787.05
+11,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,20890.72,33420.41
+11,Arauca,ARAUCA,Manufacturas de alta tecnología,1108.85,20.1
+11,Arauca,ARAUCA,Manufacturas de baja tecnología,35132.83,63414.37
+11,Arauca,ARAUCA,Manufacturas de tecnología media,102850.27,44295.170000000006
+11,Atlántico,ATLANTICO,Bienes primarios,5411046.98,2654432.75
+11,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,47104388.58,35135862.85
+11,Atlántico,ATLANTICO,Manufacturas de alta tecnología,8768637.19,1832163.28
+11,Atlántico,ATLANTICO,Manufacturas de baja tecnología,67102223.7900001,12440236.879999999
+11,Atlántico,ATLANTICO,Manufacturas de tecnología media,29369517.36,6075411.6
+11,Atlántico,ATLANTICO,Otras transacciones,121490.54999999999,21699.81
+11,Bogotá,BOGOTA D.C.,Bienes primarios,188976184.6,23515862.69
+11,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,82714579.59,73765471.87
+11,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,27355913.39,756028.16
+11,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,40528688.92,5448602.46
+11,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,59156504.43,8750420.1
+11,Bogotá,BOGOTA D.C.,Otras transacciones,7336718.6,2120682.72
+11,Bolívar,BOLIVAR,Bienes primarios,12346401.290000001,4669300.81
+11,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,16709160.35,12982698.09
+11,Bolívar,BOLIVAR,Manufacturas de alta tecnología,4559379.64,49079.62
+11,Bolívar,BOLIVAR,Manufacturas de baja tecnología,16799962.57,4033032.19
+11,Bolívar,BOLIVAR,Manufacturas de tecnología media,118022978.03999999,73151179.3
+11,Bolívar,BOLIVAR,Otras transacciones,6536.24,730
+11,Boyacá,BOYACA,Bienes primarios,1474112.26,266425.42
+11,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,28961744.36,74333022.37
+11,Boyacá,BOYACA,Manufacturas de baja tecnología,169116.13,172220.7
+11,Boyacá,BOYACA,Manufacturas de tecnología media,17065,429
+11,Caldas,CALDAS,Bienes primarios,136804074.08,12906625.05
+11,Caldas,CALDAS,Manufacturas basadas en recursos naturales,13015174.55,6602664.38
+11,Caldas,CALDAS,Manufacturas de alta tecnología,257409.28,16441.68
+11,Caldas,CALDAS,Manufacturas de baja tecnología,3707777.87,929392.95
+11,Caldas,CALDAS,Manufacturas de tecnología media,9068234.41,2221468.11
+11,Caldas,CALDAS,Otras transacciones,583.43,260.69
+11,Caquetá,CAQUETA,Manufacturas de tecnología media,41248.35000000001,8763.2
+11,Casanare,CASANARE,Bienes primarios,27264246.979999997,65790291
+11,Casanare,CASANARE,Manufacturas de alta tecnología,24671,1146.5
+11,Cauca,CAUCA,Bienes primarios,6226775.53,881130
+11,Cauca,CAUCA,Manufacturas basadas en recursos naturales,3663011.96,5249489.07
+11,Cauca,CAUCA,Manufacturas de alta tecnología,3873.88,167.67
+11,Cauca,CAUCA,Manufacturas de baja tecnología,1642665.54,404570.9
+11,Cauca,CAUCA,Manufacturas de tecnología media,3439957.37,1772680.55
+11,Cauca,CAUCA,Otras transacciones,689.12,58
+11,Cesar,CESAR,Bienes primarios,223474342.91,2975629536
+11,Cesar,CESAR,Manufacturas basadas en recursos naturales,160065.99,333250
+11,Cesar,CESAR,Manufacturas de baja tecnología,6000,4322
+11,Cesar,CESAR,Manufacturas de tecnología media,192565.97,405245
+11,Chocó,CHOCO,Manufacturas basadas en recursos naturales,337815.64999999997,267711.22
+11,Cundinamarca,CUNDINAMARCA,Bienes primarios,110343513.99,70030190.53
+11,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,19415850.46,27863534.45
+11,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,35356743.02,1830326.64
+11,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,14981177.3,3022919.8
+11,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,44153794.66,8144050.68
+11,Cundinamarca,CUNDINAMARCA,Otras transacciones,616394.3,86821.91
+11,Córdoba,CORDOBA,Bienes primarios,10573413.62,54861774.77
+11,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,89120.84,24073
+11,Córdoba,CORDOBA,Manufacturas de tecnología media,42570867.97,13210878
+11,Guainía,GUAINIA,Manufacturas basadas en recursos naturales,4100,560
+11,Guainía,GUAINIA,Manufacturas de baja tecnología,6712.6500000000005,850.5
+11,Guajira,LA GUAJIRA,Bienes primarios,91259833.28,1062309456.46
+11,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,460390.27,278658.58
+11,Guajira,LA GUAJIRA,Manufacturas de alta tecnología,61995.55,5200
+11,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,291861.36,137315
+11,Guajira,LA GUAJIRA,Manufacturas de tecnología media,2622670.42,1859600.34
+11,Huila,HUILA,Bienes primarios,169339239.68,19707179.66
+11,Huila,HUILA,Manufacturas basadas en recursos naturales,101632,9480
+11,Huila,HUILA,Manufacturas de baja tecnología,0.41,509
+11,Huila,HUILA,Manufacturas de tecnología media,44962.04,40000
+11,Magdalena,MAGDALENA,Bienes primarios,40397660.08,47751270.35
+11,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,140270.49,117899.19
+11,Magdalena,MAGDALENA,Manufacturas de alta tecnología,4000,97.59
+11,Magdalena,MAGDALENA,Manufacturas de baja tecnología,24871.11,1407.3
+11,Magdalena,MAGDALENA,Manufacturas de tecnología media,444654.86,354380
+11,Meta,META,Bienes primarios,49027631.29,117230744.8
+11,Meta,META,Manufacturas de alta tecnología,89300,5341
+11,Meta,META,Manufacturas de baja tecnología,11960.54,7635.52
+11,Meta,META,Manufacturas de tecnología media,409731.70999999996,486660.63
+11,Meta,META,Otras transacciones,0.76,5.76
+11,Nariño,NARINO,Bienes primarios,25515037.76,3455052.08
+11,Nariño,NARINO,Manufacturas basadas en recursos naturales,161686.06999999998,86201.69
+11,Nariño,NARINO,Manufacturas de alta tecnología,8860.27,660
+11,Nariño,NARINO,Manufacturas de baja tecnología,88754.14,11662.73
+11,Nariño,NARINO,Manufacturas de tecnología media,114415.3,12124.3
+11,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,16481831.71,154024363.63
+11,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,17387034.669999998,75889078.43
+11,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,238448.3,88559.73999999999
+11,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,3424557.04,3104336.95
+11,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,3092213.53,1515336.0899999999
+11,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,3744.5,2097.77
+11,Putumayo,PUTUMAYO,Bienes primarios,27540225.78,68470101
+11,Quindío,QUINDIO,Bienes primarios,24087251.68,3543700.07
+11,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,981852.58,139532.95
+11,Quindío,QUINDIO,Manufacturas de baja tecnología,80109.65,25996.3
+11,Quindío,QUINDIO,Manufacturas de tecnología media,96684.03,111772
+11,Risaralda,RISARALDA,Bienes primarios,29489906.13,6961729.31
+11,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,12702180.69,6520417.33
+11,Risaralda,RISARALDA,Manufacturas de alta tecnología,13952770.74,1484889.65
+11,Risaralda,RISARALDA,Manufacturas de baja tecnología,1068077.18,268086.3
+11,Risaralda,RISARALDA,Manufacturas de tecnología media,5742933.37,442177.45
+11,Santander,SANTANDER,Bienes primarios,13666707.62,3714306.54
+11,Santander,SANTANDER,Manufacturas basadas en recursos naturales,24099423.38,30081155.63
+11,Santander,SANTANDER,Manufacturas de alta tecnología,24190.21,156.05999999999997
+11,Santander,SANTANDER,Manufacturas de baja tecnología,2430509.64,568089.46
+11,Santander,SANTANDER,Manufacturas de tecnología media,1938235.0999999999,250921.18
+11,Santander,SANTANDER,Otras transacciones,60,7.23
+11,Sucre,SUCRE,Bienes primarios,26966860.05,70521816
+11,Tolima,TOLIMA,Bienes primarios,16330532.33,1359562.61
+11,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,220459.69999999998,79877.55
+11,Tolima,TOLIMA,Manufacturas de baja tecnología,112451,10300.84
+11,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,49127928.42,9328494.23
+11,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,65744270.97,56892776.27
+11,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,24837943.69,5225550.97
+11,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,22073089.99,6672998.84
+11,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,43026243.27,17047312.07
+11,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,182174.2,14709.01
+11,Vaupés,VAUPES,Manufacturas basadas en recursos naturales,5432.320000000001,287.3
+12,Antioquia,ANTIOQUIA,Bienes primarios,297626045.96999997,200075021.39
+12,Antioquia,ANTIOQUIA,Manufacturas basadas en recursos naturales,40033389.46,14278105.540000001
+12,Antioquia,ANTIOQUIA,Manufacturas de alta tecnología,6421839.2,381172.61
+12,Antioquia,ANTIOQUIA,Manufacturas de baja tecnología,62445026.33,10261795.74
+12,Antioquia,ANTIOQUIA,Manufacturas de tecnología media,74403439.91,19512050.12
+12,Antioquia,ANTIOQUIA,Otras transacciones,640968780.3100001,20987.82
+12,Arauca,ARAUCA,Manufacturas basadas en recursos naturales,701.58,250
+12,Arauca,ARAUCA,Manufacturas de baja tecnología,87621.30000000002,84022
+12,Arauca,ARAUCA,Manufacturas de tecnología media,28927.18,57846
+12,Atlántico,ATLANTICO,Bienes primarios,7008760.98,11944302.62
+12,Atlántico,ATLANTICO,Manufacturas basadas en recursos naturales,32543647.02,13572350.35
+12,Atlántico,ATLANTICO,Manufacturas de alta tecnología,11197827.36,2119703.56
+12,Atlántico,ATLANTICO,Manufacturas de baja tecnología,83520314.35,13642718.55
+12,Atlántico,ATLANTICO,Manufacturas de tecnología media,16544766.45,5628471.23
+12,Atlántico,ATLANTICO,Otras transacciones,2569.39,304.45
+12,Bogotá,BOGOTA D.C.,Bienes primarios,303768890.05,109328775.58
+12,Bogotá,BOGOTA D.C.,Manufacturas basadas en recursos naturales,91632994.05,83529751.71
+12,Bogotá,BOGOTA D.C.,Manufacturas de alta tecnología,33532181.97,817004.15
+12,Bogotá,BOGOTA D.C.,Manufacturas de baja tecnología,51810412.33,7360993.23
+12,Bogotá,BOGOTA D.C.,Manufacturas de tecnología media,73070650.61,15396234.5
+12,Bogotá,BOGOTA D.C.,Otras transacciones,14898711.5,1153842.53
+12,Bolívar,BOLIVAR,Bienes primarios,13961567.37,7183418.15
+12,Bolívar,BOLIVAR,Manufacturas basadas en recursos naturales,15088652.6,13552119.32
+12,Bolívar,BOLIVAR,Manufacturas de alta tecnología,607995.03,20420.16
+12,Bolívar,BOLIVAR,Manufacturas de baja tecnología,16915030.25,4002834.95
+12,Bolívar,BOLIVAR,Manufacturas de tecnología media,145968638.11,69456905.55
+12,Bolívar,BOLIVAR,Otras transacciones,347773.9300000001,5935.55
+12,Boyacá,BOYACA,Bienes primarios,1805458.56,331612.13
+12,Boyacá,BOYACA,Manufacturas basadas en recursos naturales,13328268.41,53557796.45
+12,Boyacá,BOYACA,Manufacturas de alta tecnología,16078.57,840.8
+12,Boyacá,BOYACA,Manufacturas de baja tecnología,81382.37999999999,22786.31
+12,Boyacá,BOYACA,Manufacturas de tecnología media,4334.52,321.59
+12,Caldas,CALDAS,Bienes primarios,54911324.89,6537946.85
+12,Caldas,CALDAS,Manufacturas basadas en recursos naturales,17134313.69,7359670.7
+12,Caldas,CALDAS,Manufacturas de alta tecnología,835767.91,33212.62
+12,Caldas,CALDAS,Manufacturas de baja tecnología,3954402.81,1004231.73
+12,Caldas,CALDAS,Manufacturas de tecnología media,10474615.41,2740183.91
+12,Caldas,CALDAS,Otras transacciones,16477.39,488.65000000000003
+12,Casanare,CASANARE,Bienes primarios,68534696.46,170416683
+12,Cauca,CAUCA,Bienes primarios,3780460.87,795097.44
+12,Cauca,CAUCA,Manufacturas basadas en recursos naturales,11479099.65,18038637.88
+12,Cauca,CAUCA,Manufacturas de alta tecnología,259.59,50.36
+12,Cauca,CAUCA,Manufacturas de baja tecnología,1755666.19,497958.97
+12,Cauca,CAUCA,Manufacturas de tecnología media,4274512.18,2300756.58
+12,Cesar,CESAR,Bienes primarios,169594420.44,2240607968
+12,Cesar,CESAR,Manufacturas basadas en recursos naturales,281748.13,382968
+12,Cesar,CESAR,Manufacturas de tecnología media,171350,519800
+12,Chocó,CHOCO,Manufacturas basadas en recursos naturales,562847.64,1352479.98
+12,Cundinamarca,CUNDINAMARCA,Bienes primarios,108320364.46,157551331.47
+12,Cundinamarca,CUNDINAMARCA,Manufacturas basadas en recursos naturales,24555590.87,56264764.62
+12,Cundinamarca,CUNDINAMARCA,Manufacturas de alta tecnología,12398828.83,549632.79
+12,Cundinamarca,CUNDINAMARCA,Manufacturas de baja tecnología,16968921.77,3671339.42
+12,Cundinamarca,CUNDINAMARCA,Manufacturas de tecnología media,47810846.82,8224898.2299999995
+12,Cundinamarca,CUNDINAMARCA,Otras transacciones,436241.51,74691.81999999999
+12,Córdoba,CORDOBA,Bienes primarios,7633097.23,1663060.69
+12,Córdoba,CORDOBA,Manufacturas basadas en recursos naturales,728961.16,964409.2
+12,Córdoba,CORDOBA,Manufacturas de alta tecnología,579.51,5
+12,Córdoba,CORDOBA,Manufacturas de baja tecnología,1035.8,134.6
+12,Córdoba,CORDOBA,Manufacturas de tecnología media,45028101.32,14530721
+12,Guainía,GUAINIA,Manufacturas de baja tecnología,1218.24,341.55
+12,Guajira,LA GUAJIRA,Bienes primarios,211161411.71,2933758685
+12,Guajira,LA GUAJIRA,Manufacturas basadas en recursos naturales,492215.5,236515.08000000002
+12,Guajira,LA GUAJIRA,Manufacturas de baja tecnología,114528.07,54705
+12,Guajira,LA GUAJIRA,Manufacturas de tecnología media,2531510.12,1487946.68
+12,Huila,HUILA,Bienes primarios,159500323.21,18597979.77
+12,Huila,HUILA,Manufacturas basadas en recursos naturales,33636.6,21424
+12,Magdalena,MAGDALENA,Bienes primarios,36890161.11,55882506.47
+12,Magdalena,MAGDALENA,Manufacturas basadas en recursos naturales,567528.15,279425.81
+12,Magdalena,MAGDALENA,Manufacturas de alta tecnología,20696.45,239.95
+12,Magdalena,MAGDALENA,Manufacturas de baja tecnología,60683.74,3663.92
+12,Magdalena,MAGDALENA,Manufacturas de tecnología media,483339.63,490024
+12,Magdalena,MAGDALENA,Otras transacciones,302368.3,2.32
+12,Meta,META,Bienes primarios,62275284.55,158813696
+12,Meta,META,Manufacturas de alta tecnología,15376,1690.58
+12,Meta,META,Manufacturas de baja tecnología,17861.79,11829
+12,Meta,META,Manufacturas de tecnología media,357021.05,478856.23
+12,Nariño,NARINO,Bienes primarios,15438217.77,1624703.88
+12,Nariño,NARINO,Manufacturas basadas en recursos naturales,165070.02,83254.62
+12,Nariño,NARINO,Manufacturas de alta tecnología,55265.38,973.74
+12,Nariño,NARINO,Manufacturas de baja tecnología,61835.55,2259.82
+12,Nariño,NARINO,Manufacturas de tecnología media,58458.87,3777.47
+12,Nariño,NARINO,Otras transacciones,16232.65,534.3
+12,Norte de Santander,NORTE DE SANTANDER,Bienes primarios,23253649.15,204234995.93
+12,Norte de Santander,NORTE DE SANTANDER,Manufacturas basadas en recursos naturales,19518522.81,90367350.18
+12,Norte de Santander,NORTE DE SANTANDER,Manufacturas de alta tecnología,530442.37,39533.06
+12,Norte de Santander,NORTE DE SANTANDER,Manufacturas de baja tecnología,3561366.93,2227491.34
+12,Norte de Santander,NORTE DE SANTANDER,Manufacturas de tecnología media,4254992.43,1636215.26
+12,Norte de Santander,NORTE DE SANTANDER,Otras transacciones,3957,665.5
+12,Putumayo,PUTUMAYO,Bienes primarios,254736.56,25000
+12,Quindío,QUINDIO,Bienes primarios,15492920.209999999,2587360.47
+12,Quindío,QUINDIO,Manufacturas basadas en recursos naturales,937154.24,145585.59
+12,Quindío,QUINDIO,Manufacturas de baja tecnología,115542.69,20154.32
+12,Quindío,QUINDIO,Manufacturas de tecnología media,212124.24,119874
+12,Quindío,QUINDIO,Otras transacciones,82.5,25.4
+12,Risaralda,RISARALDA,Bienes primarios,18366367.04,5054883.06
+12,Risaralda,RISARALDA,Manufacturas basadas en recursos naturales,17060903.41,8849776.47
+12,Risaralda,RISARALDA,Manufacturas de alta tecnología,16775442.4,1118333.59
+12,Risaralda,RISARALDA,Manufacturas de baja tecnología,1624473.02,268629.57
+12,Risaralda,RISARALDA,Manufacturas de tecnología media,10120869.31,644877.08
+12,Risaralda,RISARALDA,Otras transacciones,105291.65,5614.4000000000005
+12,Santander,SANTANDER,Bienes primarios,19135905.62,33927902.55
+12,Santander,SANTANDER,Manufacturas basadas en recursos naturales,23306680.92,31912398.139999997
+12,Santander,SANTANDER,Manufacturas de alta tecnología,127485.54000000001,838.17
+12,Santander,SANTANDER,Manufacturas de baja tecnología,3069261.93,628656.1900000001
+12,Santander,SANTANDER,Manufacturas de tecnología media,3240454.34,1290988.08
+12,Sucre,SUCRE,Bienes primarios,28934749.96,78643747
+12,Sucre,SUCRE,Manufacturas basadas en recursos naturales,143562.45,57777
+12,Tolima,TOLIMA,Bienes primarios,7806512.61,494509.24
+12,Tolima,TOLIMA,Manufacturas basadas en recursos naturales,187565.67,67435.8
+12,Tolima,TOLIMA,Manufacturas de baja tecnología,59427.3,4751.51
+12,Tolima,TOLIMA,Manufacturas de tecnología media,37198,2104
+12,Valle del Cauca,VALLE DEL CAUCA,Bienes primarios,41552991.3,8641238.73
+12,Valle del Cauca,VALLE DEL CAUCA,Manufacturas basadas en recursos naturales,84557163.47,87303881
+12,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de alta tecnología,26823279.88,4525532.81
+12,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de baja tecnología,20313468.58,5205974.28
+12,Valle del Cauca,VALLE DEL CAUCA,Manufacturas de tecnología media,59511819.61,20686482.27
+12,Valle del Cauca,VALLE DEL CAUCA,Otras transacciones,8520409.4,20156.74
