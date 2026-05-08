@@ -438,6 +438,9 @@ if tipo_mapa == "Mapa mundial":
 
     fig.update_layout(height=700)
     fig.update_coloraxes(
+    colorbar_title=f"{variable_label}<br>(escala log)"
+)
+    fig.update_coloraxes(
     colorbar_title="Intensidad exportadora"
 )
     if "Nivel tecnologico" in mundo.columns:
@@ -566,6 +569,9 @@ else:
     )
 
     fig.update_layout(height=700)
+    fig.update_coloraxes(
+    colorbar_title=f"{variable_label}<br>(escala log)"
+)
 
     if "Pais" in colombia.columns and "CIIU" in colombia.columns and "fob_ciiu" in colombia.columns:
 
